@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<%- include('../partials/head'); %>
+</head>
+
+<body>
+<%- include('../partials/header'); %>
+
+<div class = "container-xl mt-4" >
+    <div class = row>
+        <div class = "col-12">
+            <div class="card bg-dark">
+                <div class="card-body">
+                    <h1>Hardware Catalog</h1>
+                    <p class="card-text">Browse the database of computer hardware and accessories.</p>
+
+                    <table id="example" class="table table-dark table-striped" style="width:100%">
+                        <thead>
+                        <tr>
+                            <th scope="col">Model</th>
+                            <th scope="col"># of CPU Cores</th>
+                            <th scope="col"># of Threads</th>
+                            <th scope="col">L1 Cache</th>
+                            <th scope="col">L2 Cache</th>
+                            <th scope="col">L3 Cache</th>
+                        </tr>
+                        </thead>
+                        
+                        <% catalog.data.forEach(function(item) { %>
+                            <tr>
+                                <td><%= item.Model %></td>
+                                <td><%= item.CPU_Cores %></td>
+                                <td><%= item.Threads %></td>
+                                <td><%= item.Total_L1_Cache %></td>
+                                <td><%= item.Total_L2_Cache %></td>
+                                <td><%= item.Total_L3_Cache %></td>
+
+                            </tr>
+                        <% }); %>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<% if(typeof searchQuery !== 'undefined'){ %>
+    <h1>"<%= searchQuery.query %>"</h1>
+    <%- console.log(searchQuery) %>
+  <% } else{ %>  
+<% } %>
+
+<%- include('../partials/footer'); %>
+
+
+<script>
+    $(document).ready(function() {
+        $('#example').DataTable();
+    } );
+</script>
+
+</body>
+</html>
+
