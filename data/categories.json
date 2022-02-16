@@ -1,0 +1,10 @@
+[
+    {"type": "MOBO"},
+    {"type": "CPU"},
+    {"type": "GPU"},
+    {"type": "RAM"},
+    {"type": "SSD"},
+    {"type": "HDD"},
+    {"type": "Case"},
+    {"type": "Cooler"}
+]

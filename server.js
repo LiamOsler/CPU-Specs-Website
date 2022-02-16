@@ -1,3 +1,4 @@
+const fs = require('fs');
 var express = require('express');
 var app = express();
 app.use('/jquery/', express.static(__dirname + '/node_modules/jquery'));
@@ -5,27 +6,16 @@ app.use('/@popperjs/', express.static(__dirname + '/node_modules/@popperjs/core/
 app.use('/bootstrap/css/', express.static(__dirname + '/node_modules/bootstrap/dist/css'));
 app.use('/bootstrap/js/', express.static(__dirname + '/node_modules/bootstrap/dist/js'));
 app.use('/styles/', express.static(__dirname + '/styles'));
-
-// set the view engine to ejs
 app.set('view engine', 'ejs');
 
-// use res.render to load up an ejs view file
-var mascots = [
-  { name: 'Sammy', organization: "DigitalOcean", birth_year: 2012},
-  { name: 'Tux', organization: "Linux", birth_year: 1996},
-  { name: 'Moby Dock', organization: "Docker", birth_year: 2013}
-];
+let categoryData = fs.readFileSync('data/categories.json');
+let categories = JSON.parse(categoryData);
 
 // index page
 app.get('/', function(req, res) {
-  mascots;
-
-  var tagline = "No programming concept is complete without a cute animal mascot.";
-
-
+  categories;
   res.render('pages/index',  {
-    mascots: mascots,
-    tagline: tagline
+    categories: categories
   });
 });
 
