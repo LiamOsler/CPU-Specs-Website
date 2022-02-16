@@ -1,10 +1,6 @@
 .paginate_button{
     display: inline-block;
-    margin-bottom: 0;
-    font-weight: 400;
     text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
     -ms-touch-action: manipulation;
     touch-action: manipulation;
     cursor: pointer;
@@ -17,8 +13,28 @@
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    color:rgb(40, 167, 69);
+    background-color: #343A40;
+    border-color: rgb(40, 167, 69);
+    margin-right: .5em;
+}
+
+.current{
     color: #333;
     background-color: #fff;
     border-color: #ccc;
-    margin-right: .5em;
+}
+
+.dataTables_filter{
+    display: inline-block;
+    float: right;
+}
+
+.dataTables_length{
+    display: inline-block;
+    float: left;
+}
+
+.dataTables_paginate{
+    float: right;
 }
