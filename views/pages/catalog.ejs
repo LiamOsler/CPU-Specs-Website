@@ -7,18 +7,19 @@
 <body>
 <%- include('../partials/header'); %>
 
-<div class = "container-xl mt-4" >
+<div class = "container-fluid mt-4" >
     <div class = row>
         <div class = "col-12">
             <div class="card bg-dark">
                 <div class="card-body">
                     <h1>Hardware Catalog</h1>
+
                     <p class="card-text">Browse the database of computer hardware and accessories.</p>
 
                     <table id="example" class="table table-dark table-striped table-hover" style="width:100%">
                         <thead>
                         <tr>
-                            <th class="d-xs-table-cell" scope="col">Model</th>
+                            <th class="d-xs-table-cell model-cell" scope="col">Model</th>
                             <th class="d-xs-table-cell" scope="col">Man.</th>
                             <th class="d-xs-table-cell" scope="col">Family</th>
                             <th class="d-none d-md-table-cell" scope="col">CPU Socket</th>
@@ -29,6 +30,7 @@
                             <th class="d-none d-xl-table-cell" scope="col">L1 Cache</th>
                             <th class="d-none d-xl-table-cell" scope="col">L2 Cache</th>
                             <th class="d-none d-xl-table-cell" scope="col">L3 Cache</th>
+                            <th class="d-none d-xl-table-cell" scope="col">Total Cache</th>
                             <th class="d-none d-xl-table-cell" scope="col">Default TDP</th>
                         </tr>
                         </thead>
@@ -36,7 +38,7 @@
                         <% catalog.data.forEach(function(item) { %>
                             <tr>
                                 <td class="d-xs-table-cell">
-                                    <button type="button" class="btn btn-light" data-toggle="modal" data-target="#exampleModal">
+                                    <button type="button" class="btn btn-light btn-lg btn-block" data-toggle="modal" data-target="#exampleModal">
                                         <%= item["Model"] %>
                                     </button>
                                 </td>
@@ -50,8 +52,8 @@
                                 <td class="d-none d-xl-table-cell" ><%= item["Total L1 Cache"] %></td>
                                 <td class="d-none d-xl-table-cell" ><%= item["Total L2 Cache"] %></td>
                                 <td class="d-none d-xl-table-cell" ><%= item["Total L3 Cache"] %></td>
+                                <td class="d-none d-xl-table-cell" ><%= item["Total Cache"] %></td>
                                 <td class="d-none d-xl-table-cell" ><%= item["Default TDP"] %></td>
-
                             </tr>
                         <% }); %>
                     </table>
@@ -67,6 +69,8 @@
   <% } else{ %>  
 <% } %>
 
+
+<%- include('../partials/itemmodal'); %>
 <footer>
     <%- include('../partials/footer'); %>
 </footer>
@@ -81,6 +85,9 @@
                 "bInfo" : false,
                 "scrollX": true,
                 "pagingType": "simple_numbers",
+                "language": {
+                    "lengthMenu": "_MENU_ Items per page"
+                }
                 
             }
         );

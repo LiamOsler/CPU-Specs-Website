@@ -11,19 +11,17 @@ h1, h2, h5, p{
 }
 
 footer a{
-    color:rgb(40, 167, 69);
+    color: #57FF89;
     text-decoration: underline;
 }
-footer a{
-    color:rgb(40, 167, 69);
+footer a:hover{
+    color: #3CB25F;
+    text-decoration: underline;
 }
 
 .card a{
     color:rgb(40, 167, 69);
     text-decoration: underline;
-}
-.card a{
-    color:rgb(40, 167, 69);
 }
 
 .jumbotron {
