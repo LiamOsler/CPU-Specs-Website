@@ -24,9 +24,6 @@ let catalog ={
       "Family",
       "Line",
       "Platform",
-      "Product ID Tray",
-      "Product ID Boxed",
-      "Product ID MPK",
       "Launch Date",
       "CPU Cores",
       "Threads",
@@ -46,6 +43,7 @@ let catalog ={
       "System Memory Specification",
       "System Memory Type",
       "Memory Channels",
+      "Max Memory",
       "Graphics Frequency",
       "Integrated Graphics",
       "Supported Technologies"
@@ -60,7 +58,6 @@ let catalog ={
 //AMD:
 let cpu_amd_raw = fs.readFileSync('data/specs/cpu/amd/data.json');
 let cpu_amd = JSON.parse(cpu_amd_raw);
-
 for (let i = 0; i < cpu_amd.data.length; i++){
   let obj = cpu_amd.data[i];
   catalog.data.push(
@@ -69,9 +66,6 @@ for (let i = 0; i < cpu_amd.data.length; i++){
       "Family" : obj["Family"],
       "Line" : obj["Line"],
       "Platform" : obj["Platform"],
-      "Product ID Tray" : obj["Product ID Tray"],
-      "Product ID Boxed" : obj["Product ID Boxed"],
-      "Product ID MPK" : obj["Product ID MPK"],
       "Launch Date" : obj["Launch Date"],
       "CPU Cores" : obj["# of CPU Cores"],
       "Threads" : obj["# of Threads"],
@@ -97,9 +91,65 @@ for (let i = 0; i < cpu_amd.data.length; i++){
     } 
   )
 }
+
+//Intel:
+//Laptop Processors:
+let cpu_intel_laptop_raw = fs.readFileSync('data/specs/cpu/intel/laptop.json');
+let cpu_intel_laptop = JSON.parse(cpu_intel_laptop_raw);
+for (let i = 0; i < cpu_intel_laptop.data.length; i++){
+  let obj = cpu_intel_laptop.data[i];
+  catalog.data.push(
+    {
+      "Model" : obj["Processor Number"],
+      "Family" : obj["Intel® Core™ Generation"] + " Generation",
+      "Line" : obj["Brand Identifier"],
+      "Platform" : "Laptop",
+      "Launch Date" : obj["Year Launched"],
+      "CPU Cores" : obj["# cores"],
+      "Threads" : obj["# Threads"],
+      "Base Clock" : obj["Base Clock"],
+      "Boost Clock" : obj["Max Turbo Frequency"],
+      "Total Cache" : obj["Cache"],
+      "Default TDP" : obj["Processor Base Power (previously known as TDP)"],
+      "Max Memory" : obj["Max Memory Size (dependent on memory type)"],
+      "System Memory Type" : obj["Memory Types5"],
+      "Graphics Frequency" : obj["Graphics Max Dynamic Frequency"],
+      "Integrated Graphics" : obj["Processor Graphics"],
+      "Supported Technologies" : obj["Instruction Set Extensions"]
+    } 
+  )
+}
+
+//Intel:
+//Desktop Processors:
+let cpu_intel_desktop_raw = fs.readFileSync('data/specs/cpu/intel/desktop.json');
+let cpu_intel_desktop = JSON.parse(cpu_intel_desktop_raw);
+for (let i = 0; i < cpu_intel_desktop.data.length; i++){
+  let obj = cpu_intel_desktop.data[i];
+  catalog.data.push(
+    {
+      "Model" : obj["Processor Number"],
+      "Family" : obj["Intel® Core™ Generation"] + " Generation",
+      "Line" : obj["Brand Modifier"],
+      "Platform" : "Desktop",
+      "Launch Date" : obj["Year launch"],
+      "CPU Cores" : obj["# of Cores"],
+      "Threads" : obj["# of Threads"],
+      "Base Clock" : obj["Performance-core Base Frequency (GHz)"],
+      "Boost Clock" : obj["Max Turbo Frequency (GHz)"],
+      "Total Cache" : obj["Cache (MB)"],
+      "Default TDP" : obj["Processor Base Power (previously Thermal Design Power (TDP)) (W)"],
+      "Max Memory" : obj["Max Memory Size (dependent on memory type) GB"],
+      "System Memory Type" : obj["Memory Types"],
+      "Integrated Graphics" : obj["Intel® Processor Graphics"],
+      "Graphics Frequency" : obj["Graphics Max Dynamic Frequency (GHz)"]
+    } 
+  )
+}
+
 console.log("hello");
 
-console.log(catalog.data);
+console.log(catalog.data[800]);
 
 
 //Page Structure:
