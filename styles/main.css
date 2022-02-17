@@ -6,12 +6,24 @@ body{
     background-color: black;
 }
 
-h1{
+h1, h2, h5, p{
     color: whitesmoke;
 }
 
-p{
-    color: whitesmoke;
+footer a{
+    color:rgb(40, 167, 69);
+    text-decoration: underline;
+}
+footer a{
+    color:rgb(40, 167, 69);
+}
+
+.card a{
+    color:rgb(40, 167, 69);
+    text-decoration: underline;
+}
+.card a{
+    color:rgb(40, 167, 69);
 }
 
 .jumbotron {

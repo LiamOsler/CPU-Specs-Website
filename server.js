@@ -15,16 +15,24 @@ app.set('view engine', 'ejs');
 let categoryData = fs.readFileSync('data/categories.json');
 let categories = JSON.parse(categoryData);
 
-let catalogData = fs.readFileSync('data/ryzen.json');
+let catalogData = fs.readFileSync('data/specs/cpu/amd/desktop.json');
 let catalog = JSON.parse(catalogData);
 
-console.log(catalog.data[1]);
+console.log(catalog.data[0]);
 
 
 // index page
 app.get('/', function(req, res) {
   categories;
   res.render('pages/index',  {
+    categories: categories
+  });
+});
+
+// sources page
+app.get('/sources/', function(req, res) {
+  categories;
+  res.render('pages/sources',  {
     categories: categories
   });
 });
