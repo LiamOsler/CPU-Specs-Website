@@ -20,15 +20,18 @@ let categories = JSON.parse(categoryData);
 let catalog ={
   "header": [
     [
+      "Manufacturer",
       "Model",
       "Family",
       "Line",
       "Platform",
       "Launch Date",
       "CPU Cores",
+      "CPU Socket",
       "Threads",
       "Base Clock",
       "Boost Clock",
+      "Total Cache",
       "Total L1 Cache",
       "Total L2 Cache",
       "Total L3 Cache",
@@ -62,12 +65,14 @@ for (let i = 0; i < cpu_amd.data.length; i++){
   let obj = cpu_amd.data[i];
   catalog.data.push(
     {
+      "Manufacturer": "AMD",
       "Model" : obj["Model"],
       "Family" : obj["Family"],
       "Line" : obj["Line"],
       "Platform" : obj["Platform"],
       "Launch Date" : obj["Launch Date"],
       "CPU Cores" : obj["# of CPU Cores"],
+      "CPU Socket" : obj["CPU Socket"],
       "Threads" : obj["# of Threads"],
       "Base Clock" : obj["Base Clock"],
       "Boost Clock" : obj["Max. Boost Clock ¹ ²"],
@@ -100,10 +105,11 @@ for (let i = 0; i < cpu_intel_laptop.data.length; i++){
   let obj = cpu_intel_laptop.data[i];
   catalog.data.push(
     {
+      "Manufacturer": "Intel",
+      "Platform" : "Laptop",
       "Model" : obj["Processor Number"],
       "Family" : obj["Intel® Core™ Generation"] + " Generation",
       "Line" : obj["Brand Identifier"],
-      "Platform" : "Laptop",
       "Launch Date" : obj["Year Launched"],
       "CPU Cores" : obj["# cores"],
       "Threads" : obj["# Threads"],
@@ -128,12 +134,14 @@ for (let i = 0; i < cpu_intel_desktop.data.length; i++){
   let obj = cpu_intel_desktop.data[i];
   catalog.data.push(
     {
+      "Manufacturer": "Intel",
+      "Platform" : "Desktop",
       "Model" : obj["Processor Number"],
       "Family" : obj["Intel® Core™ Generation"] + " Generation",
       "Line" : obj["Brand Modifier"],
-      "Platform" : "Desktop",
       "Launch Date" : obj["Year launch"],
       "CPU Cores" : obj["# of Cores"],
+      "CPU Socket" : obj["Supported Socket"],
       "Threads" : obj["# of Threads"],
       "Base Clock" : obj["Performance-core Base Frequency (GHz)"],
       "Boost Clock" : obj["Max Turbo Frequency (GHz)"],

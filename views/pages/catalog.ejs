@@ -15,11 +15,13 @@
                     <h1>Hardware Catalog</h1>
                     <p class="card-text">Browse the database of computer hardware and accessories.</p>
 
-                    <table id="example" class="table table-dark table-striped" style="width:100%">
+                    <table id="example" class="table table-dark table-striped table-hover" style="width:100%">
                         <thead>
                         <tr>
-                            <th scope="col">Model</th>
+                            <th class="d-xs-table-cell" scope="col">Model</th>
+                            <th class="d-xs-table-cell" scope="col">Man.</th>
                             <th class="d-xs-table-cell" scope="col">Family</th>
+                            <th class="d-none d-md-table-cell" scope="col">CPU Socket</th>
                             <th class="d-none d-md-table-cell" scope="col">CPU Cores</th>
                             <th class="d-none d-md-table-cell" scope="col">Threads</th>
                             <th class="d-none d-md-table-cell" scope="col">Base Clock</th>
@@ -28,14 +30,19 @@
                             <th class="d-none d-xl-table-cell" scope="col">L2 Cache</th>
                             <th class="d-none d-xl-table-cell" scope="col">L3 Cache</th>
                             <th class="d-none d-xl-table-cell" scope="col">Default TDP</th>
-                            <th class="d-none d-xl-table-cell" scope="col">Launch Date</th>
                         </tr>
                         </thead>
                         
                         <% catalog.data.forEach(function(item) { %>
                             <tr>
-                                <td><%= item["Model"] %></td>
+                                <td class="d-xs-table-cell">
+                                    <button type="button" class="btn btn-light" data-toggle="modal" data-target="#exampleModal">
+                                        <%= item["Model"] %>
+                                    </button>
+                                </td>
+                                <td class="d-xs-table-cell"><%= item["Manufacturer"] %></td>
                                 <td class="d-xs-table-cell"><%= item["Family"] %></td>
+                                <td class="d-none d-md-table-cell"><%= item["CPU Socket"] %></td>
                                 <td class="d-none d-md-table-cell"><%= item["CPU Cores"] %></td>
                                 <td class="d-none d-md-table-cell"><%= item["Threads"] %></td>
                                 <td class="d-none d-md-table-cell"><%= item["Base Clock"] %></td>
@@ -44,7 +51,6 @@
                                 <td class="d-none d-xl-table-cell" ><%= item["Total L2 Cache"] %></td>
                                 <td class="d-none d-xl-table-cell" ><%= item["Total L3 Cache"] %></td>
                                 <td class="d-none d-xl-table-cell" ><%= item["Default TDP"] %></td>
-                                <td class="d-none d-xl-table-cell"><%= item["Launch Date"] %></td>
 
                             </tr>
                         <% }); %>
@@ -68,7 +74,6 @@
 <script>
     $(document).ready(function() {
         $('#example').DataTable(
-
             {
                 columnDefs: [
                 { type: 'natural', targets : 0 }

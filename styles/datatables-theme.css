@@ -62,4 +62,13 @@ label{
 
 .ellipsis{
     color: whitesmoke;
+    margin-right: .5em;
+}
+
+td{
+    vertical-align: middle !important;
+}
+
+th:hover{
+    background-color: #43494e;
 }
