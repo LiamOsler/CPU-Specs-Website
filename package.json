@@ -2,13 +2,15 @@
   "dependencies": {
     "@popperjs/core": "^2.11.2",
     "bootstrap": "^4.6.1",
+    "compression": "^1.7.4",
     "d3": "^7.3.0",
     "datatables": "^1.10.18",
     "ejs": "^3.1.6",
     "express": "^4.17.2",
     "geotiff": "^2.0.4",
     "jquery": "^1.9.1",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "uuid": "^8.3.2"
   },
   "scripts": {
     "start": "node server.js"

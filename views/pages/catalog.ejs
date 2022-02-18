@@ -38,7 +38,10 @@
                         <% catalog.data.forEach(function(item) { %>
                             <tr>
                                 <td class="d-xs-table-cell">
-                                    <button type="button" class="btn btn-light btn-lg btn-block" data-toggle="modal" data-target="#exampleModal">
+                                    <button type="button" class="btn btn-light btn-lg btn-block" data-toggle="modal" data-target="#itemModal" onClick = "modalContent(this)">
+                                        <div class = "PCDBID" style = "display: none">
+                                            <%= item["PCDBID"] %>
+                                        </div>
                                         <%= item["Model"] %>
                                     </button>
                                 </td>
@@ -92,6 +95,13 @@
             }
         );
     } );
+
+    let test = '<%- JSON.stringify(catalog.data) %>'; // test is now a valid js object
+    console.log(test);
+
+        function modalContent(input){
+         console.log(input);
+        }
 </script>
 
 </body>

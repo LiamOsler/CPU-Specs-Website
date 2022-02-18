@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@popperjs/core": "^2.11.2",
+    "bootstrap": "^4.6.1",
+    "d3": "^7.3.0",
+    "datatables": "^1.10.18",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "geotiff": "^2.0.4",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.16.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "javascript-rasters",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamOsler/Javascript-Rasters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiamOsler/Javascript-Rasters/issues"
+  },
+  "homepage": "https://github.com/LiamOsler/Javascript-Rasters#readme",
+  "description": ""
+}

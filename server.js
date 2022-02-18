@@ -1,6 +1,11 @@
 const fs = require('fs');
+const { v4: uuidv4 } = require('uuid');
+
+const compression = require('compression')
+
 let express = require('express');
 let app = express();
+app.use(compression());
 
 //Express routing for required styles and js:
 app.use('/jquery/', express.static(__dirname + '/node_modules/jquery'));
@@ -20,6 +25,7 @@ let categories = JSON.parse(categoryData);
 let catalog ={
   "header": [
     [
+      "PCDBID",
       "Manufacturer",
       "Model",
       "Family",
@@ -61,10 +67,10 @@ let catalog ={
 //AMD:
 let cpu_amd_raw = fs.readFileSync('data/specs/cpu/amd/data.json');
 let cpu_amd = JSON.parse(cpu_amd_raw);
-for (let i = 0; i < cpu_amd.data.length; i++){
-  let obj = cpu_amd.data[i];
+for (let obj of cpu_amd.data){
   catalog.data.push(
     {
+      "PCDBID" : uuidv4(),
       "Manufacturer": "AMD",
       "Model" : obj["Model"],
       "Family" : obj["Family"],
@@ -101,10 +107,10 @@ for (let i = 0; i < cpu_amd.data.length; i++){
 //Laptop Processors:
 let cpu_intel_laptop_raw = fs.readFileSync('data/specs/cpu/intel/laptop.json');
 let cpu_intel_laptop = JSON.parse(cpu_intel_laptop_raw);
-for (let i = 0; i < cpu_intel_laptop.data.length; i++){
-  let obj = cpu_intel_laptop.data[i];
+for (let obj of cpu_intel_laptop.data){
   catalog.data.push(
     {
+      "PCDBID" : uuidv4(),
       "Manufacturer": "Intel",
       "Platform" : "Laptop",
       "Model" : obj["Processor Number"],
@@ -130,10 +136,10 @@ for (let i = 0; i < cpu_intel_laptop.data.length; i++){
 //Desktop Processors:
 let cpu_intel_desktop_raw = fs.readFileSync('data/specs/cpu/intel/desktop.json');
 let cpu_intel_desktop = JSON.parse(cpu_intel_desktop_raw);
-for (let i = 0; i < cpu_intel_desktop.data.length; i++){
-  let obj = cpu_intel_desktop.data[i];
+for (let obj of  cpu_intel_desktop.data){
   catalog.data.push(
     {
+      "PCDBID" : uuidv4(),
       "Manufacturer": "Intel",
       "Platform" : "Desktop",
       "Model" : obj["Processor Number"],
