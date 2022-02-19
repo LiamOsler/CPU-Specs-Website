@@ -46,7 +46,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 5950X",
+      "Model": "5950X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -81,13 +81,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture, AMD StoreMI Technology, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
+      "Supported Technologies": "AMD Zen 3 Core Architecture, AMD StoreMI Technology, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 5800X3D",
+      "Model": "5800X3D",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Desktop",
@@ -122,13 +122,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD StoreMI Technology, AMD \"Zen 3\" Core Architecture, AMD Ryzen VR-Ready Premium",
+      "Supported Technologies": "AMD StoreMI Technology, AMD Zen 3 Core Architecture, AMD Ryzen VR-Ready Premium",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 5900X",
+      "Model": "5900X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -163,13 +163,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture, AMD StoreMI Technology, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
+      "Supported Technologies": "AMD Zen 3 Core Architecture, AMD StoreMI Technology, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 5900 (OEM Only)",
+      "Model": "5900 (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Desktop Processors",
       "Platform": "Desktop",
@@ -204,13 +204,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
+      "Supported Technologies": "AMD Zen 3 Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 5800X",
+      "Model": "5800X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -245,13 +245,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture, AMD StoreMI Technology, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
+      "Supported Technologies": "AMD Zen 3 Core Architecture, AMD StoreMI Technology, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 5800 (OEM Only)",
+      "Model": "5800 (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Desktop",
@@ -286,13 +286,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
+      "Supported Technologies": "AMD Zen 3 Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 5600X",
+      "Model": "5600X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -327,17 +327,17 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture, AMD StoreMI Technology, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
+      "Supported Technologies": "AMD Zen 3 Core Architecture, AMD StoreMI Technology, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 6980HX",
+      "Model": "6980HX",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
-      "Product ID Tray": "FP7:100-000000750 FP7r2:\t100-000000751",
+      "Product ID Tray": "FP7:100-000000750 FP7r2:100-000000751",
       "Product ID Boxed": "",
       "Product ID MPK": "",
       "Launch Date": "",
@@ -374,7 +374,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 3900XT",
+      "Model": "3900XT",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -415,7 +415,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 6980HS",
+      "Model": "6980HS",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -456,11 +456,11 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 6900HX",
+      "Model": "6900HX",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
-      "Product ID Tray": "FP7:100-000000544 FP7r2:\t100-000000560",
+      "Product ID Tray": "FP7:100-000000544 FP7r2:100-000000560",
       "Product ID Boxed": "",
       "Product ID MPK": "",
       "Launch Date": "",
@@ -497,7 +497,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 3800XT",
+      "Model": "3800XT",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -538,11 +538,11 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 6900HS​",
+      "Model": "6900HS​",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
-      "Product ID Tray": "FP7:100-000000545 FP7r7:\t100-000000561",
+      "Product ID Tray": "FP7:100-000000545 FP7r7:100-000000561",
       "Product ID Boxed": "",
       "Product ID MPK": "",
       "Launch Date": "",
@@ -579,11 +579,11 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 6800H",
+      "Model": "6800H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
-      "Product ID Tray": "FP7:100-000000545 FP7r2:\t100-000000561",
+      "Product ID Tray": "FP7:100-000000545 FP7r2:100-000000561",
       "Product ID Boxed": "",
       "Product ID MPK": "",
       "Launch Date": "",
@@ -620,11 +620,11 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 6800HS",
+      "Model": "6800HS",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
-      "Product ID Tray": "FP7:100-000000545 FP7r7:\t100-000000561",
+      "Product ID Tray": "FP7:100-000000545 FP7r7:100-000000561",
       "Product ID Boxed": "",
       "Product ID MPK": "",
       "Launch Date": "",
@@ -661,7 +661,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3600XT",
+      "Model": "3600XT",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -696,13 +696,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD StoreMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility",
+      "Supported Technologies": "AMD StoreMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ PRO 3995WX",
+      "Model": "PRO 3995WX",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen Threadripper™ PRO Processors",
       "Platform": "Desktop",
@@ -737,17 +737,17 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture",
+      "Supported Technologies": "AMD Zen Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 6800U​",
+      "Model": "6800U​",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
-      "Product ID Tray": "FP7:100-000000534 FP7r2:\t100-000000617",
+      "Product ID Tray": "FP7:100-000000534 FP7r2:100-000000617",
       "Product ID Boxed": "",
       "Product ID MPK": "",
       "Launch Date": "",
@@ -784,7 +784,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ PRO 3975WX",
+      "Model": "PRO 3975WX",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen Threadripper™ PRO Processors",
       "Platform": "Desktop",
@@ -819,17 +819,17 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture",
+      "Supported Technologies": "AMD Zen Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 6600H",
+      "Model": "6600H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
-      "Product ID Tray": "FP7:100-000000546 FP7r2:\t100-000000562",
+      "Product ID Tray": "FP7:100-000000546 FP7r2:100-000000562",
       "Product ID Boxed": "",
       "Product ID MPK": "",
       "Launch Date": "",
@@ -866,7 +866,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ PRO 3955WX",
+      "Model": "PRO 3955WX",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen Threadripper™ PRO Processors",
       "Platform": "Desktop",
@@ -901,13 +901,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture",
+      "Supported Technologies": "AMD Zen Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ PRO 3945WX",
+      "Model": "PRO 3945WX",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen Threadripper™ PRO Processors",
       "Platform": "Desktop",
@@ -942,17 +942,17 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture",
+      "Supported Technologies": "AMD Zen Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 6600HS​",
+      "Model": "6600HS​",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
-      "Product ID Tray": "FP7:100-000000546 FP7r2:\t100-000000562",
+      "Product ID Tray": "FP7:100-000000546 FP7r2:100-000000562",
       "Product ID Boxed": "",
       "Product ID MPK": "",
       "Launch Date": "",
@@ -989,7 +989,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ 3990X",
+      "Model": "3990X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen Threadripper™ Processors",
       "Platform": "Boxed Processor",
@@ -1024,13 +1024,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility",
+      "Supported Technologies": "AMD Zen Core Architecture, AMD Ryzen Master Utility",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 5980HX",
+      "Model": "5980HX",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1065,13 +1065,13 @@
       "Graphics Frequency": "2100 MHz",
       "GPU Base": "",
       "Graphics Model": "AMD Radeon™ Graphics",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Supported Technologies": "AMD Zen 3 Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 5980HS",
+      "Model": "5980HS",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1106,13 +1106,13 @@
       "Graphics Frequency": "2100 MHz",
       "GPU Base": "",
       "Graphics Model": "AMD Radeon™ Graphics",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Supported Technologies": "AMD Zen 3 Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ 3970X",
+      "Model": "3970X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen Threadripper™ Processors",
       "Platform": "Boxed Processor",
@@ -1147,13 +1147,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility",
+      "Supported Technologies": "AMD Zen Core Architecture, AMD Ryzen Master Utility",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 5900HX",
+      "Model": "5900HX",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1188,17 +1188,17 @@
       "Graphics Frequency": "2100 MHz",
       "GPU Base": "",
       "Graphics Model": "AMD Radeon™ Graphics",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Supported Technologies": "AMD Zen 3 Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 6600U",
+      "Model": "6600U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
-      "Product ID Tray": "FP7:100-000000536 FP7r2:\t100-000000548",
+      "Product ID Tray": "FP7:100-000000536 FP7r2:100-000000548",
       "Product ID Boxed": "",
       "Product ID MPK": "",
       "Launch Date": "",
@@ -1235,7 +1235,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 5825U",
+      "Model": "5825U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1276,7 +1276,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 5900HS",
+      "Model": "5900HS",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1311,13 +1311,13 @@
       "Graphics Frequency": "2100 MHz",
       "GPU Base": "",
       "Graphics Model": "AMD Radeon™ Graphics",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Supported Technologies": "AMD Zen 3 Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ 3960X",
+      "Model": "3960X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen Threadripper™ Processors",
       "Platform": "Boxed Processor",
@@ -1352,13 +1352,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility",
+      "Supported Technologies": "AMD Zen Core Architecture, AMD Ryzen Master Utility",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 5800H",
+      "Model": "5800H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1393,13 +1393,13 @@
       "Graphics Frequency": "2000 MHz",
       "GPU Base": "",
       "Graphics Model": "AMD Radeon™ Graphics",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Supported Technologies": "AMD Zen 3 Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 5625U",
+      "Model": "5625U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1440,7 +1440,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 5800HS",
+      "Model": "5800HS",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1475,13 +1475,13 @@
       "Graphics Frequency": "2000 MHz",
       "GPU Base": "",
       "Graphics Model": "AMD Radeon™ Graphics",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Supported Technologies": "AMD Zen 3 Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 3950X",
+      "Model": "3950X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -1522,7 +1522,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 5600H",
+      "Model": "5600H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1557,13 +1557,13 @@
       "Graphics Frequency": "1800 MHz",
       "GPU Base": "",
       "Graphics Model": "AMD Radeon™ Graphics",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Supported Technologies": "AMD Zen 3 Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 5600HS",
+      "Model": "5600HS",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1598,13 +1598,13 @@
       "Graphics Frequency": "1800 MHz",
       "GPU Base": "",
       "Graphics Model": "AMD Radeon™ Graphics",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Supported Technologies": "AMD Zen 3 Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 3900X",
+      "Model": "3900X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -1645,7 +1645,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 5800U",
+      "Model": "5800U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1680,13 +1680,13 @@
       "Graphics Frequency": "2000 MHz",
       "GPU Base": "",
       "Graphics Model": "AMD Radeon™ Graphics",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Supported Technologies": "AMD Zen 3 Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 5700U",
+      "Model": "5700U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1727,7 +1727,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 5600U",
+      "Model": "5600U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1762,13 +1762,13 @@
       "Graphics Frequency": "1800 MHz",
       "GPU Base": "",
       "Graphics Model": "AMD Radeon™ Graphics",
-      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Supported Technologies": "AMD Zen 3 Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 5425U",
+      "Model": "5425U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1809,7 +1809,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 3900 Processor (OEM Only)",
+      "Model": "3900 Processor (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Desktop Processors",
       "Platform": "Desktop",
@@ -1850,7 +1850,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 5500U",
+      "Model": "5500U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1891,7 +1891,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 3800X",
+      "Model": "3800X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -1932,7 +1932,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 5400U",
+      "Model": "5400U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -1973,7 +1973,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 5300U",
+      "Model": "5300U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -2014,7 +2014,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 3700X",
+      "Model": "3700X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -2055,7 +2055,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 5700G",
+      "Model": "5700G",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 5000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Boxed Processor",
@@ -2096,7 +2096,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 5700GE",
+      "Model": "5700GE",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 5000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -2137,7 +2137,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3600X",
+      "Model": "3600X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -2178,7 +2178,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 5600G",
+      "Model": "5600G",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 5000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Boxed Processor",
@@ -2219,7 +2219,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 5600GE",
+      "Model": "5600GE",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 5000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -2260,7 +2260,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3600",
+      "Model": "3600",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -2301,7 +2301,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 5300G (OEM Only)",
+      "Model": "5300G (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 5000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -2342,7 +2342,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 5300GE (OEM Only)",
+      "Model": "5300GE (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 5000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -2383,7 +2383,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 3300X",
+      "Model": "3300X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -2418,13 +2418,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
+      "Supported Technologies": "AMD Zen Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 4700G (OEM Only)",
+      "Model": "4700G (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 4000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -2465,7 +2465,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 3100",
+      "Model": "3100",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -2500,13 +2500,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
+      "Supported Technologies": "AMD Zen Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 4600G (OEM Only)",
+      "Model": "4600G (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 4000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -2547,7 +2547,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 4300G (OEM Only)",
+      "Model": "4300G (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 4000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -2588,7 +2588,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3500 Processor (OEM Only)",
+      "Model": "3500 Processor (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Desktop",
@@ -2629,7 +2629,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 4700GE (OEM Only)",
+      "Model": "4700GE (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 4000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -2670,7 +2670,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 4600GE (OEM Only)",
+      "Model": "4600GE (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 4000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -2711,7 +2711,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 4300GE (OEM Only)",
+      "Model": "4300GE (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 4000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -2752,7 +2752,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 4900H",
+      "Model": "4900H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -2793,7 +2793,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 4900HS",
+      "Model": "4900HS",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 9 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -2834,7 +2834,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 4800HS",
+      "Model": "4800HS",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -2875,7 +2875,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 4800H",
+      "Model": "4800H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -2916,7 +2916,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 4600H",
+      "Model": "4600H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -2957,7 +2957,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 4800U",
+      "Model": "4800U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -2998,7 +2998,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 4700U",
+      "Model": "4700U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -3039,7 +3039,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 4600U",
+      "Model": "4600U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -3080,7 +3080,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 4500U",
+      "Model": "4500U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -3121,7 +3121,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 4300U",
+      "Model": "4300U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -3162,7 +3162,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 3250U",
+      "Model": "3250U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -3203,7 +3203,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 4980U Microsoft Surface® Edition",
+      "Model": "4980U Microsoft Surface® Edition",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics Microsoft Surface® Edition",
       "Platform": "Laptop",
@@ -3238,13 +3238,13 @@
       "Graphics Frequency": "1950 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™  Graphics",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3400G with Radeon™ RX Vega 11 Graphics",
+      "Model": "3400G with Radeon™ RX Vega 11 Graphics",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Boxed Processor",
@@ -3285,7 +3285,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 4680U Microsoft Surface® Edition",
+      "Model": "4680U Microsoft Surface® Edition",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics Microsoft Surface® Edition",
       "Platform": "Laptop",
@@ -3320,13 +3320,13 @@
       "Graphics Frequency": "1500 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™  Graphics",
-      "Supported Technologies": "AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3400GE (OEM Only)",
+      "Model": "3400GE (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -3367,7 +3367,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 3200G with Radeon™ Vega 8 Graphics",
+      "Model": "3200G with Radeon™ Vega 8 Graphics",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Boxed Processor",
@@ -3408,7 +3408,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 3780U Microsoft Surface® Edition",
+      "Model": "3780U Microsoft Surface® Edition",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ RX Vega 11 Graphics Microsoft Surface® Edition",
       "Platform": "Laptop",
@@ -3449,7 +3449,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 3200GE (OEM Only)",
+      "Model": "3200GE (OEM Only)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -3490,7 +3490,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ 320GE",
+      "Model": "320GE",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -3531,7 +3531,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ 300GE",
+      "Model": "300GE",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -3572,7 +3572,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 3750H",
+      "Model": "3750H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ RX Vega Graphics",
       "Platform": "Laptop",
@@ -3607,13 +3607,13 @@
       "Graphics Frequency": "1400 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ RX Vega 10 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3550H",
+      "Model": "3550H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -3648,13 +3648,13 @@
       "Graphics Frequency": "1200 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 8 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 3700U",
+      "Model": "3700U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ RX Vega Graphics",
       "Platform": "Laptop",
@@ -3689,13 +3689,13 @@
       "Graphics Frequency": "1400 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ RX Vega 10 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3500U",
+      "Model": "3500U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -3730,13 +3730,13 @@
       "Graphics Frequency": "1200 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 8 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 3350U",
+      "Model": "3350U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -3771,13 +3771,13 @@
       "Graphics Frequency": "1200 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 6 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 3700C",
+      "Model": "3700C",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -3818,7 +3818,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3450U",
+      "Model": "3450U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -3853,13 +3853,13 @@
       "Graphics Frequency": "1200 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 8 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 3300U",
+      "Model": "3300U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -3894,13 +3894,13 @@
       "Graphics Frequency": "1200 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 6 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3580U Microsoft Surface® Edition",
+      "Model": "3580U Microsoft Surface® Edition",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Vega 9 Graphics Microsoft Surface® Edition",
       "Platform": "Laptop",
@@ -3941,7 +3941,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 3500C",
+      "Model": "3500C",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -3982,7 +3982,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 3200U",
+      "Model": "3200U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -4017,13 +4017,13 @@
       "Graphics Frequency": "1200 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 3 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ Gold 3150U",
+      "Model": "Gold 3150U",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -4064,7 +4064,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 3250C",
+      "Model": "3250C",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -4105,7 +4105,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ 300U",
+      "Model": "300U",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -4146,7 +4146,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ Silver 3050U",
+      "Model": "Silver 3050U",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -4187,7 +4187,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ Silver 3050e",
+      "Model": "Silver 3050e",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -4228,7 +4228,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ Gold 3150C",
+      "Model": "Gold 3150C",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -4269,7 +4269,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™  Silver 3050C",
+      "Model": " Silver 3050C",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -4310,7 +4310,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ Gold 3150GE (OEM Only)",
+      "Model": "Gold 3150GE (OEM Only)",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ 3000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -4351,7 +4351,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD 3020e",
+      "Model": "3020e",
       "Family": "AMD",
       "Line": "AMD 3000 Series Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -4392,7 +4392,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ Gold 3150G (OEM Only)",
+      "Model": "Gold 3150G (OEM Only)",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ 3000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -4433,7 +4433,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ Silver 3050GE (OEM Only)",
+      "Model": "Silver 3050GE (OEM Only)",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ 3000 G-Series Desktop Processors with Radeon™ Graphics",
       "Platform": "Desktop",
@@ -4474,7 +4474,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD 3015e",
+      "Model": "3015e",
       "Family": "AMD",
       "Line": "AMD 3000 Series Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -4515,7 +4515,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD 3015Ce",
+      "Model": "3015Ce",
       "Family": "AMD",
       "Line": "AMD 3000 Series Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -4556,7 +4556,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ 2990WX",
+      "Model": "2990WX",
       "Family": "Ryzen",
       "Line": "AMD Ryzen Threadripper™ Processors",
       "Platform": "Boxed Processor",
@@ -4591,13 +4591,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ 2970WX",
+      "Model": "2970WX",
       "Family": "Ryzen",
       "Line": "AMD Ryzen Threadripper™ Processors",
       "Platform": "Boxed Processor",
@@ -4632,13 +4632,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ 2950X",
+      "Model": "2950X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen Threadripper™ Processors",
       "Platform": "Boxed Processor",
@@ -4673,13 +4673,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ 2920X",
+      "Model": "2920X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen Threadripper™ Processors",
       "Platform": "Boxed Processor",
@@ -4714,13 +4714,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 2700X",
+      "Model": "2700X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -4761,7 +4761,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 2700",
+      "Model": "2700",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -4802,7 +4802,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 2700E Processor",
+      "Model": "2700E Processor",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Desktop",
@@ -4837,13 +4837,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD GuardMI Technology, AMD StoreMI Technology, AMD SenseMI Technology, AMD \"Zen\" Core Architecture, DASH 1.2",
+      "Supported Technologies": "AMD GuardMI Technology, AMD StoreMI Technology, AMD SenseMI Technology, AMD Zen Core Architecture, DASH 1.2",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 2600X",
+      "Model": "2600X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -4884,7 +4884,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 2600",
+      "Model": "2600",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -4925,7 +4925,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 2600E",
+      "Model": "2600E",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Desktop",
@@ -4960,13 +4960,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD StoreMI Technology, AMD SenseMI Technology, AMD \"Zen\" Core Architecture",
+      "Supported Technologies": "AMD StoreMI Technology, AMD SenseMI Technology, AMD Zen Core Architecture",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 2500X",
+      "Model": "2500X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Desktop",
@@ -5007,7 +5007,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 2400G with Radeon™ RX Vega 11 Graphics",
+      "Model": "2400G with Radeon™ RX Vega 11 Graphics",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Boxed Processor",
@@ -5048,7 +5048,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 2400GE with Radeon™ RX Vega 11 Graphics",
+      "Model": "2400GE with Radeon™ RX Vega 11 Graphics",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -5089,7 +5089,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 2300X",
+      "Model": "2300X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Desktop Processors",
       "Platform": "Desktop",
@@ -5130,7 +5130,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 PRO 6950H",
+      "Model": "PRO 6950H",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 9 PRO 6000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -5171,7 +5171,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 2200G with Radeon™ Vega 8 Graphics",
+      "Model": "2200G with Radeon™ Vega 8 Graphics",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Boxed Processor",
@@ -5212,7 +5212,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 2200GE with Radeon™ Vega 8 Graphics",
+      "Model": "2200GE with Radeon™ Vega 8 Graphics",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -5253,7 +5253,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 PRO 6950HS",
+      "Model": "PRO 6950HS",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 9 PRO 6000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -5294,7 +5294,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 2800H",
+      "Model": "2800H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ RX Vega Graphics",
       "Platform": "Laptop",
@@ -5329,13 +5329,13 @@
       "Graphics Frequency": "1300 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ RX Vega 11 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 2600H",
+      "Model": "2600H",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -5370,13 +5370,13 @@
       "Graphics Frequency": "1100 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 8 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 6850H",
+      "Model": "PRO 6850H",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO 6000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -5417,7 +5417,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 2700U",
+      "Model": "2700U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Mobile Processors with Radeon™ RX Vega Graphics",
       "Platform": "Laptop",
@@ -5452,13 +5452,13 @@
       "Graphics Frequency": "1300 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ RX Vega 10 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology, VCN",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology, VCN",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 2500U",
+      "Model": "2500U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -5493,13 +5493,13 @@
       "Graphics Frequency": "1100 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 8 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology, VCN",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology, VCN",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 6850HS",
+      "Model": "PRO 6850HS",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO 6000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -5540,7 +5540,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 6850U",
+      "Model": "PRO 6850U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO 6000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -5581,7 +5581,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 2300U",
+      "Model": "2300U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -5616,13 +5616,13 @@
       "Graphics Frequency": "1100 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 6 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD FreeSync™ Technology, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 2200U",
+      "Model": "2200U",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -5657,13 +5657,13 @@
       "Graphics Frequency": "1100 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 3 Graphics",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, DirectX® 12 Technology",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, DirectX® 12 Technology",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 6650H",
+      "Model": "PRO 6650H",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 6000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -5704,7 +5704,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ 1950X",
+      "Model": "1950X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen Threadripper™ Processors",
       "Platform": "Boxed Processor",
@@ -5739,13 +5739,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ 1920X",
+      "Model": "1920X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen Threadripper™ Processors",
       "Platform": "Boxed Processor",
@@ -5780,13 +5780,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, AMD Ryzen VR-Ready Premium, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen Threadripper™ 1900X",
+      "Model": "1900X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen Threadripper™ Processors",
       "Platform": "Boxed Processor",
@@ -5827,7 +5827,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 1800X",
+      "Model": "1800X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -5862,13 +5862,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX, FMA3, XFR (Extended Frequency Range)",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX, FMA3, XFR (Extended Frequency Range)",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 6650HS",
+      "Model": "PRO 6650HS",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 6000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -5909,7 +5909,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 5650G",
+      "Model": "PRO 5650G",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 5000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -5950,7 +5950,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 5650GE",
+      "Model": "PRO 5650GE",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 5000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -5991,11 +5991,11 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 6650U",
+      "Model": "PRO 6650U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 6000 Series Mobile Processors",
       "Platform": "Laptop",
-      "Product ID Tray": "\"FP7:100-000000539 FP7r2:100-000000551",
+      "Product ID Tray": "FP7:100-000000539 FP7r2:100-000000551",
       "Product ID Boxed": "",
       "Product ID MPK": "",
       "Launch Date": "",
@@ -6032,7 +6032,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 1700X",
+      "Model": "1700X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -6067,13 +6067,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX, FMA3, XFR (Extended Frequency Range)",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX, FMA3, XFR (Extended Frequency Range)",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 9 PRO 3900",
+      "Model": "PRO 3900",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 9 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -6114,7 +6114,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 5875U",
+      "Model": "PRO 5875U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO 5000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -6155,7 +6155,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 1700 Processor",
+      "Model": "1700 Processor",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 7 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -6190,13 +6190,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD GuardMI Technology, AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, DASH 1.2, AES, AVX, FMA3, XFR (Extended Frequency Range)",
+      "Supported Technologies": "AMD GuardMI Technology, AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, DASH 1.2, AES, AVX, FMA3, XFR (Extended Frequency Range)",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 3700",
+      "Model": "PRO 3700",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -6237,7 +6237,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 5850U",
+      "Model": "PRO 5850U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO 5000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -6278,7 +6278,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 5675U",
+      "Model": "PRO 5675U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 5000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -6319,7 +6319,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 5650U",
+      "Model": "PRO 5650U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 5000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -6360,7 +6360,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 5475U",
+      "Model": "PRO 5475U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO 5000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -6401,7 +6401,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 5750G",
+      "Model": "PRO 5750G",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO 5000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -6442,7 +6442,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 5450U",
+      "Model": "PRO 5450U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO 5000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -6483,7 +6483,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 5750GE",
+      "Model": "PRO 5750GE",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO 5000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -6524,7 +6524,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 5350G",
+      "Model": "PRO 5350G",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO 5000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -6565,7 +6565,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 4750G",
+      "Model": "PRO 4750G",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO 4000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -6606,7 +6606,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 1600X",
+      "Model": "1600X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -6641,13 +6641,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3, XFR (Extended Frequency Range)",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3, XFR (Extended Frequency Range)",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 5350GE",
+      "Model": "PRO 5350GE",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO 5000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -6688,7 +6688,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 4750GE",
+      "Model": "PRO 4750GE",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO 4000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -6729,7 +6729,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 3600",
+      "Model": "PRO 3600",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -6770,7 +6770,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 4650G",
+      "Model": "PRO 4650G",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 4000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -6811,7 +6811,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 4650GE",
+      "Model": "PRO 4650GE",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 4000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -6852,7 +6852,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 4350G",
+      "Model": "PRO 4350G",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO 4000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -6893,7 +6893,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 4350GE",
+      "Model": "PRO 4350GE",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO 4000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -6934,7 +6934,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 3400G",
+      "Model": "PRO 3400G",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -6975,7 +6975,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 1600 (AF)",
+      "Model": "1600 (AF)",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -7010,13 +7010,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3, XFR (Extended Frequency Range)",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3, XFR (Extended Frequency Range)",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 1600",
+      "Model": "1600",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -7051,13 +7051,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3, XFR (Extended Frequency Range)",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3, XFR (Extended Frequency Range)",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 3400GE",
+      "Model": "PRO 3400GE",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -7098,7 +7098,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 1500X",
+      "Model": "1500X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -7133,13 +7133,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3, XFR (Extended Frequency Range)",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AES, AVX2, FMA3, XFR (Extended Frequency Range)",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 3350G",
+      "Model": "PRO 3350G",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 3000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -7180,7 +7180,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 3350GE",
+      "Model": "PRO 3350GE",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 3000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -7221,7 +7221,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 3200G",
+      "Model": "PRO 3200G",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -7262,7 +7262,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 1400",
+      "Model": "1400",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 5 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -7297,13 +7297,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AVX2, FMA3, XFR (Extended Frequency Range)",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, Virtualization, Enmotus FuzeDrive™ for AMD Ryzen, AVX2, FMA3, XFR (Extended Frequency Range)",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 3200GE",
+      "Model": "PRO 3200GE",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -7344,7 +7344,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 1300X",
+      "Model": "1300X",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -7379,13 +7379,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD Ryzen Master Utility, Enmotus FuzeDrive™ for AMD Ryzen, AVX2, FMA3, XFR (Extended Frequency Range)",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD Ryzen Master Utility, Enmotus FuzeDrive™ for AMD Ryzen, AVX2, FMA3, XFR (Extended Frequency Range)",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ Gold PRO 3150G",
+      "Model": "Gold PRO 3150G",
       "Family": "AMD Athlon™ PRO Processors",
       "Line": "AMD Athlon™ PRO 3000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -7426,7 +7426,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ Gold PRO 3150GE",
+      "Model": "Gold PRO 3150GE",
       "Family": "AMD Athlon™ PRO Processors",
       "Line": "AMD Athlon™ PRO 3000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -7467,7 +7467,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ Silver PRO 3125GE",
+      "Model": "Silver PRO 3125GE",
       "Family": "AMD Athlon™ PRO Processors",
       "Line": "AMD Athlon™ PRO 3000 Series Desktop Processors",
       "Platform": "Desktop",
@@ -7508,7 +7508,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ PRO 300GE",
+      "Model": "PRO 300GE",
       "Family": "AMD Athlon™ PRO Processors",
       "Line": "AMD Athlon™ PRO Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -7549,7 +7549,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 1200",
+      "Model": "1200",
       "Family": "Ryzen",
       "Line": "AMD Ryzen 3 Desktop Processors",
       "Platform": "Boxed Processor",
@@ -7584,13 +7584,13 @@
       "Graphics Frequency": "",
       "GPU Base": "",
       "Graphics Model": "Discrete Graphics Card Required",
-      "Supported Technologies": "AMD SenseMI Technology, AMD \"Zen\" Core Architecture, AMD VR Ready Processors, Enmotus FuzeDrive™ for AMD Ryzen, AVX2, FMA3, XFR (Extended Frequency Range)",
+      "Supported Technologies": "AMD SenseMI Technology, AMD Zen Core Architecture, AMD VR Ready Processors, Enmotus FuzeDrive™ for AMD Ryzen, AVX2, FMA3, XFR (Extended Frequency Range)",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 2700X",
+      "Model": "PRO 2700X",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -7631,7 +7631,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 4750U",
+      "Model": "PRO 4750U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO 4000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -7672,7 +7672,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 2700",
+      "Model": "PRO 2700",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -7713,7 +7713,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 4650U",
+      "Model": "PRO 4650U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO 4000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -7754,7 +7754,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 4450U",
+      "Model": "PRO 4450U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO 4000 Series Mobile Processors",
       "Platform": "Laptop",
@@ -7795,7 +7795,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 3700U",
+      "Model": "PRO 3700U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -7836,7 +7836,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 1700X Processor",
+      "Model": "PRO 1700X Processor",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -7877,7 +7877,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 1700",
+      "Model": "PRO 1700",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -7918,7 +7918,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 3500U",
+      "Model": "PRO 3500U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -7959,7 +7959,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 2600",
+      "Model": "PRO 2600",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -8000,7 +8000,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ PRO 3145B",
+      "Model": "PRO 3145B",
       "Family": "AMD Athlon™ PRO Processors",
       "Line": "AMD Athlon™ PRO Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -8041,7 +8041,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 1600",
+      "Model": "PRO 1600",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -8082,7 +8082,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 3300U",
+      "Model": "PRO 3300U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -8123,7 +8123,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ PRO 3045B",
+      "Model": "PRO 3045B",
       "Family": "AMD Athlon™ PRO Processors",
       "Line": "AMD Athlon™ PRO Mobile Processors with Radeon™ Graphics",
       "Platform": "Laptop",
@@ -8164,7 +8164,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ PRO 300U Mobile Processor with Radeon™ Vega 3 Graphics",
+      "Model": "PRO 300U Mobile Processor with Radeon™ Vega 3 Graphics",
       "Family": "AMD Athlon™ PRO Processors",
       "Line": "AMD Athlon™ PRO Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -8205,7 +8205,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 1500",
+      "Model": "PRO 1500",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -8246,7 +8246,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 7 PRO 2700U",
+      "Model": "PRO 2700U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 7 PRO Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -8281,13 +8281,13 @@
       "Graphics Frequency": "1300 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 10 Graphics",
-      "Supported Technologies": "AMD PRO security, AMD SenseMI Technology, AMD \"Zen\" Core Architecture, DASH 1.2",
+      "Supported Technologies": "AMD PRO security, AMD SenseMI Technology, AMD Zen Core Architecture, DASH 1.2",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 2400G with Radeon™ Vega 11 Graphics",
+      "Model": "PRO 2400G with Radeon™ Vega 11 Graphics",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -8322,13 +8322,13 @@
       "Graphics Frequency": "1250 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 11 Graphics",
-      "Supported Technologies": "AMD GuardMI Technology, AMD SenseMI Technology, AMD \"Zen\" Core Architecture, DASH 1.2",
+      "Supported Technologies": "AMD GuardMI Technology, AMD SenseMI Technology, AMD Zen Core Architecture, DASH 1.2",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 2400GE with Radeon™ Vega 11 Graphics",
+      "Model": "PRO 2400GE with Radeon™ Vega 11 Graphics",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -8363,13 +8363,13 @@
       "Graphics Frequency": "1250 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 11 Graphics",
-      "Supported Technologies": "AMD GuardMI Technology, AMD SenseMI Technology, AMD \"Zen\" Core Architecture, DASH 1.2",
+      "Supported Technologies": "AMD GuardMI Technology, AMD SenseMI Technology, AMD Zen Core Architecture, DASH 1.2",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 1300",
+      "Model": "PRO 1300",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -8410,7 +8410,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 5 PRO 2500U",
+      "Model": "PRO 2500U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 5 PRO Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -8445,13 +8445,13 @@
       "Graphics Frequency": "1100 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 8 Graphics",
-      "Supported Technologies": "AMD PRO security, AMD SenseMI Technology, AMD \"Zen\" Core Architecture, DASH 1.2",
+      "Supported Technologies": "AMD PRO security, AMD SenseMI Technology, AMD Zen Core Architecture, DASH 1.2",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 2200G with Radeon™ Vega 8 Graphics",
+      "Model": "PRO 2200G with Radeon™ Vega 8 Graphics",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -8486,13 +8486,13 @@
       "Graphics Frequency": "1100 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 8 Graphics",
-      "Supported Technologies": "AMD GuardMI Technology, AMD SenseMI Technology, AMD \"Zen\" Core Architecture, DASH 1.2",
+      "Supported Technologies": "AMD GuardMI Technology, AMD SenseMI Technology, AMD Zen Core Architecture, DASH 1.2",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 2200GE with Radeon™ Vega 8 Graphics",
+      "Model": "PRO 2200GE with Radeon™ Vega 8 Graphics",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -8527,13 +8527,13 @@
       "Graphics Frequency": "1100 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 8 Graphics",
-      "Supported Technologies": "AMD GuardMI Technology, AMD SenseMI Technology, AMD \"Zen\" Core Architecture, DASH 1.2",
+      "Supported Technologies": "AMD GuardMI Technology, AMD SenseMI Technology, AMD Zen Core Architecture, DASH 1.2",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 1200",
+      "Model": "PRO 1200",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO Desktop Processors",
       "Platform": "Desktop",
@@ -8574,7 +8574,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Ryzen 3 PRO 2300U",
+      "Model": "PRO 2300U",
       "Family": "AMD Ryzen PRO Processors",
       "Line": "AMD Ryzen 3 PRO Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -8609,13 +8609,13 @@
       "Graphics Frequency": "1100 MHz",
       "GPU Base": "",
       "Graphics Model": "Radeon™ Vega 6 Graphics",
-      "Supported Technologies": "AMD PRO security, AMD SenseMI Technology, AMD \"Zen\" Core Architecture, DASH 1.2",
+      "Supported Technologies": "AMD PRO security, AMD SenseMI Technology, AMD Zen Core Architecture, DASH 1.2",
       "Workload Affinity": ""
     },
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A4-5350B APU",
+      "Model": " A4-5350B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A4 APU for Laptops",
       "Platform": "Laptop",
@@ -8656,7 +8656,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A4-4350B APU",
+      "Model": " A4-4350B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A4 APU for Laptops",
       "Platform": "Laptop",
@@ -8697,7 +8697,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A6-8350B APU",
+      "Model": " A6-8350B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Laptops",
       "Platform": "Laptop",
@@ -8738,7 +8738,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A6-7350B APU",
+      "Model": " A6-7350B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Laptops",
       "Platform": "Laptop",
@@ -8779,7 +8779,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A12-9800 APU",
+      "Model": "A12-9800 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A12-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -8820,7 +8820,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A12-9800E APU",
+      "Model": "A12-9800E APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A12-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -8861,7 +8861,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A10-9700 APU",
+      "Model": "A10-9700 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -8902,7 +8902,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A10-9700E APU",
+      "Model": "A10-9700E APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -8943,7 +8943,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A8-9600 APU",
+      "Model": "A8-9600 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -8984,7 +8984,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A6-9550 APU",
+      "Model": "A6-9550 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -9025,7 +9025,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A6-9500 APU",
+      "Model": "A6-9500 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -9066,7 +9066,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A6-9500E APU",
+      "Model": "A6-9500E APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -9107,7 +9107,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A12-9730P APU",
+      "Model": "A12-9730P APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A12-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9148,7 +9148,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A12-9700P APU",
+      "Model": "A12-9700P APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A12-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9189,7 +9189,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A10-9630P APU",
+      "Model": "A10-9630P APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9230,7 +9230,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A10-9600P APU",
+      "Model": "A10-9600P APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9271,7 +9271,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A9-9425 APU",
+      "Model": "A9-9425 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A9-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9312,7 +9312,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A9-9420 APU",
+      "Model": "A9-9420 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A9-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9353,7 +9353,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A9-9410 APU",
+      "Model": "A9-9410 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A9-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9394,7 +9394,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A6-9225 APU",
+      "Model": "A6-9225 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9435,7 +9435,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A6-9220 APU",
+      "Model": "A6-9220 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9476,7 +9476,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A6-9220C APU",
+      "Model": "A6-9220C APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9517,7 +9517,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A6-9210 APU",
+      "Model": "A6-9210 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9558,7 +9558,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A4-9125 APU",
+      "Model": "A4-9125 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A4-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9599,7 +9599,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A4-9120 APU",
+      "Model": "A4-9120 APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A4-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9640,7 +9640,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen A4-9120C APU",
+      "Model": "A4-9120C APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A4-Series APU for Laptops",
       "Platform": "Laptop",
@@ -9681,7 +9681,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A12-9800 APU",
+      "Model": " A12-9800 APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A12 APU for Desktops",
       "Platform": "Desktop",
@@ -9722,7 +9722,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A12-9800E APU",
+      "Model": " A12-9800E APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A12 APU for Desktops",
       "Platform": "Desktop",
@@ -9763,7 +9763,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A10-9700 APU",
+      "Model": " A10-9700 APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Desktops",
       "Platform": "Desktop",
@@ -9804,7 +9804,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A10-9700E APU",
+      "Model": " A10-9700E APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Desktops",
       "Platform": "Desktop",
@@ -9845,7 +9845,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A8-9600 APU",
+      "Model": " A8-9600 APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A8 APU for Desktops",
       "Platform": "Desktop",
@@ -9886,7 +9886,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A6-9500 APU",
+      "Model": " A6-9500 APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Desktops",
       "Platform": "Desktop",
@@ -9927,7 +9927,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A6-9500E APU",
+      "Model": " A6-9500E APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Desktops",
       "Platform": "Desktop",
@@ -9968,7 +9968,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A12-9830B APU",
+      "Model": " A12-9830B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A12 APU for Laptops",
       "Platform": "Laptop",
@@ -10009,7 +10009,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A12-9800B APU",
+      "Model": " A12-9800B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A12 APU for Laptops",
       "Platform": "Laptop",
@@ -10050,7 +10050,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A10-9730B APU",
+      "Model": " A10-9730B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Laptops",
       "Platform": "Laptop",
@@ -10091,7 +10091,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A10-9700B APU",
+      "Model": " A10-9700B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Laptops",
       "Platform": "Laptop",
@@ -10132,7 +10132,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A8-9630B",
+      "Model": " A8-9630B",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A8 APU for Laptops",
       "Platform": "Laptop",
@@ -10173,7 +10173,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A8-9600B APU",
+      "Model": " A8-9600B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A8 APU for Laptops",
       "Platform": "Laptop",
@@ -10214,7 +10214,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD PRO A6-9500B APU",
+      "Model": " A6-9500B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Laptops",
       "Platform": "Laptop",
@@ -10255,7 +10255,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen FX™ 9830P APU",
+      "Model": "FX™ 9830P APU",
       "Family": "AMD FX-Series Processors",
       "Line": "AMD FX-Series Processors for Laptops",
       "Platform": "Laptop",
@@ -10296,7 +10296,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen FX™ 9800P APU",
+      "Model": "FX™ 9800P APU",
       "Family": "AMD FX-Series Processors",
       "Line": "AMD FX-Series Processors for Laptops",
       "Platform": "Laptop",
@@ -10337,7 +10337,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen E2-9010 APU",
+      "Model": "E2-9010 APU",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E2-Series APU for Laptops",
       "Platform": "Laptop",
@@ -10378,7 +10378,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen A10-8700P APU",
+      "Model": "A10-8700P APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Laptops",
       "Platform": "Laptop",
@@ -10419,7 +10419,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen A8-8600P APU",
+      "Model": "A8-8600P APU",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Laptops",
       "Platform": "Laptop",
@@ -10460,7 +10460,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A12-8870 APU",
+      "Model": "A12-8870 APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A12 APU for Desktops",
       "Platform": "Desktop",
@@ -10501,7 +10501,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A12-8870E APU",
+      "Model": "A12-8870E APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A12 APU for Desktops",
       "Platform": "Desktop",
@@ -10542,7 +10542,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A10-8850B APU",
+      "Model": "A10-8850B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Desktops",
       "Platform": "Desktop",
@@ -10583,7 +10583,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A10-8770 APU",
+      "Model": "A10-8770 APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Desktops",
       "Platform": "Desktop",
@@ -10624,7 +10624,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A10-8770E APU",
+      "Model": "A10-8770E APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Desktops",
       "Platform": "Desktop",
@@ -10665,7 +10665,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A10-8750B APU",
+      "Model": "A10-8750B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Desktops",
       "Platform": "Desktop",
@@ -10706,7 +10706,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A8-8650B APU",
+      "Model": "A8-8650B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A8 APU for Desktops",
       "Platform": "Desktop",
@@ -10747,7 +10747,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A6-8570 APU",
+      "Model": "A6-8570 APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Desktops",
       "Platform": "Desktop",
@@ -10788,7 +10788,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A6-8570E APU",
+      "Model": "A6-8570E APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Desktops",
       "Platform": "Desktop",
@@ -10829,7 +10829,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A6-8550B APU",
+      "Model": "A6-8550B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Desktops",
       "Platform": "Desktop",
@@ -10870,7 +10870,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A4-8350B APU",
+      "Model": "A4-8350B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A4 APU for Desktops",
       "Platform": "Desktop",
@@ -10911,7 +10911,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A12-8830B APU",
+      "Model": "A12-8830B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A12 APU for Laptops",
       "Platform": "Laptop",
@@ -10952,7 +10952,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A12-8800B APU",
+      "Model": "A12-8800B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A12 APU for Laptops",
       "Platform": "Laptop",
@@ -10993,7 +10993,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A10-8730B APU",
+      "Model": "A10-8730B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Laptops",
       "Platform": "Laptop",
@@ -11034,7 +11034,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A10-8700B APU",
+      "Model": "A10-8700B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Laptops",
       "Platform": "Laptop",
@@ -11075,7 +11075,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A8-8600B APU",
+      "Model": "A8-8600B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A8 APU for Laptops",
       "Platform": "Laptop",
@@ -11116,7 +11116,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A6-8530B APU",
+      "Model": "A6-8530B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Laptops",
       "Platform": "Laptop",
@@ -11157,7 +11157,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen AMD PRO A6-8500B APU",
+      "Model": "A6-8500B APU",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Laptops",
       "Platform": "Laptop",
@@ -11198,7 +11198,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "6th Gen FX-8800P APU",
+      "Model": "FX-8800P APU",
       "Family": "AMD FX-Series Processors",
       "Line": "AMD FX-Series Processors for Laptops",
       "Platform": "Laptop",
@@ -11239,7 +11239,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-7890K with Radeon™ R7 Graphics and Wraith cooler",
+      "Model": "A10-7890K and Wraith cooler",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11280,7 +11280,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-7870K with Radeon™ R7 Series",
+      "Model": "A10-7870K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11321,7 +11321,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-7870K with Radeon™ R7 Graphics and Near Silent Thermal Solution",
+      "Model": "A10-7870K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11362,7 +11362,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-7860K with Radeon™ R7 Series",
+      "Model": "A10-7860K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11403,7 +11403,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-7860K with Radeon™ R7 Graphics and Near Silent Thermal Solution",
+      "Model": "A10-7860K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11444,7 +11444,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-7850K with Radeon™ R7 Series",
+      "Model": "A10-7850K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11485,7 +11485,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-7800 with Radeon™ R7 Series",
+      "Model": "A10-7800",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11526,7 +11526,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-7700K with Radeon™ R7 Series",
+      "Model": "A10-7700K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11567,7 +11567,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-6800K with Radeon™ HD 8670D",
+      "Model": "A10-6800K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11608,7 +11608,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-6790K with Radeon™ HD 8670D",
+      "Model": "A10-6790K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11649,7 +11649,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-6700 with Radeon™ HD 8670D",
+      "Model": "A10-6700",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11690,7 +11690,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-6700T with Radeon™ HD 8650D",
+      "Model": "A10-6700T",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -11731,7 +11731,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7763",
+      "Model": "7763",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -11772,7 +11772,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7713P",
+      "Model": "7713P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -11813,7 +11813,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7713",
+      "Model": "7713",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -11854,7 +11854,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7663",
+      "Model": "7663",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -11895,7 +11895,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7643",
+      "Model": "7643",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -11936,7 +11936,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 75F3",
+      "Model": "75F3",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -11977,7 +11977,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7543P",
+      "Model": "7543P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12018,7 +12018,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7543",
+      "Model": "7543",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12059,7 +12059,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7513",
+      "Model": "7513",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12100,7 +12100,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7453",
+      "Model": "7453",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12141,7 +12141,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 74F3",
+      "Model": "74F3",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12182,7 +12182,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7443P",
+      "Model": "7443P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12223,7 +12223,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7443",
+      "Model": "7443",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12264,7 +12264,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7413",
+      "Model": "7413",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12305,7 +12305,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 73F3",
+      "Model": "73F3",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12346,7 +12346,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7343",
+      "Model": "7343",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12387,7 +12387,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7313P",
+      "Model": "7313P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12428,7 +12428,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7313",
+      "Model": "7313",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12469,7 +12469,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 72F3",
+      "Model": "72F3",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7003 Series",
       "Platform": "Server",
@@ -12510,7 +12510,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-7670K with Radeon™ R7 Graphics and Near Silent Thermal Solution",
+      "Model": "A8-7670K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -12551,7 +12551,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7F72",
+      "Model": "7F72",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -12592,7 +12592,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-7650K with Radeon™ R7 Series",
+      "Model": "A8-7650K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -12633,7 +12633,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7F52",
+      "Model": "7F52",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -12674,7 +12674,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7F32",
+      "Model": "7F32",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -12715,7 +12715,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7H12",
+      "Model": "7H12",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -12756,7 +12756,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7742",
+      "Model": "7742",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -12797,7 +12797,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-7650K with Radeon™ R7 Graphics and Near Silent Thermal Solution",
+      "Model": "A8-7650K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -12838,7 +12838,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-7600 with Radeon™ R7 Series",
+      "Model": "A8-7600",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -12879,7 +12879,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7702",
+      "Model": "7702",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -12920,7 +12920,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-6600K with Radeon™ HD 8570D",
+      "Model": "A8-6600K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -12961,7 +12961,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7702P",
+      "Model": "7702P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13002,7 +13002,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7662",
+      "Model": "7662",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13043,7 +13043,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-6500 with Radeon™ HD 8570D",
+      "Model": "A8-6500",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -13084,7 +13084,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7642",
+      "Model": "7642",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13125,7 +13125,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-6500T with Radeon™ HD 8550D",
+      "Model": "A8-6500TD",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -13166,7 +13166,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7552",
+      "Model": "7552",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13207,7 +13207,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7542",
+      "Model": "7542",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13248,7 +13248,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7532",
+      "Model": "7532",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13289,7 +13289,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7502",
+      "Model": "7502",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13330,7 +13330,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7502P",
+      "Model": "7502P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13371,7 +13371,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7452",
+      "Model": "7452",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13412,7 +13412,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7402",
+      "Model": "7402",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13453,7 +13453,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7402P",
+      "Model": "7402P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13494,7 +13494,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-7470K with Radeon™ R5 Series",
+      "Model": "A6-7470K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -13535,7 +13535,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7352",
+      "Model": "7352",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13576,7 +13576,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-7400K with Radeon™ R5 Series",
+      "Model": "A6-7400K",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -13617,7 +13617,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7302",
+      "Model": "7302",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13658,7 +13658,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-6420K with Radeon™ HD 8470D",
+      "Model": "A6-6420KD",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -13699,7 +13699,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7302P",
+      "Model": "7302P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13740,7 +13740,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7282",
+      "Model": "7282",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13822,7 +13822,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7272",
+      "Model": "7272",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13863,7 +13863,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-6400K with Radeon™ HD 8470D",
+      "Model": "A6-6400KD",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -13904,7 +13904,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7262",
+      "Model": "7262",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -13945,7 +13945,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-5200 with Radeon™ HD 8400",
+      "Model": "A6-5200",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Desktops",
       "Platform": "Desktop",
@@ -13986,7 +13986,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7252",
+      "Model": "7252",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -14027,7 +14027,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7232P",
+      "Model": "7232P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7002 Series",
       "Platform": "Server",
@@ -14068,7 +14068,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7601",
+      "Model": "7601",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14109,7 +14109,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7551P",
+      "Model": "7551P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14150,7 +14150,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7551",
+      "Model": "7551",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14191,7 +14191,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7501",
+      "Model": "7501",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14232,7 +14232,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A4-7300 with Radeon™ HD 8470D",
+      "Model": "A4-7300D",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A4-Series APU for Desktops",
       "Platform": "Desktop",
@@ -14273,7 +14273,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7451",
+      "Model": "7451",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14314,7 +14314,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7401P",
+      "Model": "7401P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14355,7 +14355,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A4-6320 with Radeon™ HD 8370D",
+      "Model": "A4-6320D",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A4-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -14396,7 +14396,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7401",
+      "Model": "7401",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14437,7 +14437,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A4-6300 with Radeon™ HD 8370D",
+      "Model": "A4-6300D",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A4-Series APU for Desktops",
       "Platform": "Boxed Processor",
@@ -14478,7 +14478,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7371",
+      "Model": "7371",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14519,7 +14519,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7351P",
+      "Model": "7351P",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14560,7 +14560,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7351",
+      "Model": "7351",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14601,7 +14601,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7301",
+      "Model": "7301",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14642,7 +14642,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A4-5100 with Radeon™ HD 8330",
+      "Model": "A4-5100",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A4-Series APU for Desktops",
       "Platform": "Desktop",
@@ -14683,7 +14683,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7281",
+      "Model": "7281",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14724,7 +14724,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A4-5000 with Radeon™ HD 8330",
+      "Model": "A4-5000",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A4-Series APU for Desktops",
       "Platform": "Desktop",
@@ -14765,7 +14765,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7261",
+      "Model": "7261",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -14806,7 +14806,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD EPYC™ 7251",
+      "Model": "7251",
       "Family": "AMD EPYC™",
       "Line": "AMD EPYC™ 7001 Series",
       "Platform": "Server",
@@ -15011,7 +15011,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-7400P with Radeon™ R6 Graphics",
+      "Model": "A10-7400P",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Laptops",
       "Platform": "Laptop",
@@ -15093,7 +15093,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-7300 with Radeon™ R6 Graphics",
+      "Model": "A10-7300",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Laptops",
       "Platform": "Laptop",
@@ -15216,7 +15216,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10 Micro-6700T with Radeon™ R6 Graphics",
+      "Model": "A10 Micro-6700T",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for Laptops",
       "Platform": "Laptop, Tablet",
@@ -15503,7 +15503,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-7410 with Radeon™ R5 Graphics",
+      "Model": "A8-7410",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Laptops",
       "Platform": "Laptop",
@@ -15585,7 +15585,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-7200P with Radeon™ R5 Graphics",
+      "Model": "A8-7200P",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Laptops",
       "Platform": "Laptop",
@@ -15667,7 +15667,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-7100 with Radeon™ R5 Graphics",
+      "Model": "A8-7100",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Laptops",
       "Platform": "Laptop",
@@ -15749,7 +15749,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-6410 with Radeon™ R5 Graphics",
+      "Model": "A8-6410",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for Laptops",
       "Platform": "Laptop",
@@ -16200,7 +16200,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-8500P with Radeon™ R5 Graphics",
+      "Model": "A6-8500P",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Laptops",
       "Platform": "Laptop",
@@ -16610,7 +16610,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-5350M with Radeon™ HD 8450G",
+      "Model": "A6-5350MG",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Laptops",
       "Platform": "Laptop",
@@ -16774,7 +16774,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-5200M with Radeon™ HD 8400",
+      "Model": "A6-5200M",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for Laptops",
       "Platform": "Laptop",
@@ -17430,7 +17430,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A4-5100 with Radeon™ HD 8330",
+      "Model": "A4-5100",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A4-Series APU for Laptops",
       "Platform": "Laptop, Tablet",
@@ -17512,7 +17512,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A4-5000 with Radeon™ HD 8330",
+      "Model": "A4-5000",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A4-Series APU for Laptops",
       "Platform": "Laptop, Tablet",
@@ -18086,7 +18086,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-8700P with Radeon™ R6 Graphics",
+      "Model": "A10-8700P",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A10-Series APU for AIOs",
       "Platform": "All-in-One",
@@ -18127,7 +18127,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD Athlon™ X4 970",
+      "Model": "AMD Athlon™ X4 970",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ X4",
       "Platform": "Boxed Processor",
@@ -18168,7 +18168,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-8600P with Radeon™ R6 Graphics",
+      "Model": "A8-8600P",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for AIOs",
       "Platform": "All-in-One",
@@ -18209,7 +18209,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD Athlon™ X4 950",
+      "Model": "AMD Athlon™ X4 950",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ X4",
       "Platform": "Boxed Processor",
@@ -18250,7 +18250,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-6410 with Radeon™ R5 Graphics",
+      "Model": "A8-6410",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A8-Series APU for AIOs",
       "Platform": "All-in-One",
@@ -18291,7 +18291,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "7th Gen AMD Athlon™ X4 940",
+      "Model": "AMD Athlon™ X4 940",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ X4",
       "Platform": "Boxed Processor",
@@ -18332,7 +18332,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-8500P with Radeon™ R5 Graphics",
+      "Model": "A6-8500P",
       "Family": "AMD A-Series Processors",
       "Line": "AMD A6-Series APU for AIOs",
       "Platform": "All-in-One",
@@ -18537,7 +18537,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-6800B with Radeon™ HD 8670D",
+      "Model": "A10-6800B",
       "Family": "AMD A-Series Processors",
       "Line": "AMD Business Class - Quad-Core A10-Series APU for Desktops",
       "Platform": "Desktop",
@@ -18660,7 +18660,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10-6790B with Radeon™ HD 8670D",
+      "Model": "A10-6790B",
       "Family": "AMD A-Series Processors",
       "Line": "AMD Business Class - Quad-Core A10-Series APU for Desktops",
       "Platform": "Desktop",
@@ -18742,7 +18742,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8-6500B with Radeon™ HD 8570D",
+      "Model": "A8-6500B",
       "Family": "AMD A-Series Processors",
       "Line": "AMD Business Class - Quad-Core A8-Series APU for Desktops",
       "Platform": "Desktop",
@@ -18865,7 +18865,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-6420B with Radeon™ HD 8470D",
+      "Model": "A6-6420BD",
       "Family": "AMD A-Series Processors",
       "Line": "AMD Business Class - Dual-Core A6-Series APU for Desktops",
       "Platform": "Desktop",
@@ -18947,7 +18947,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6-6400B with Radeon™ HD 8470D",
+      "Model": "A6-6400BD",
       "Family": "AMD A-Series Processors",
       "Line": "AMD Business Class - Dual-Core A6-Series APU for Desktops",
       "Platform": "Desktop",
@@ -19234,7 +19234,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10 PRO-7850B with Radeon™ R7 Graphics",
+      "Model": "A10 PRO-7850B",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Desktops",
       "Platform": "Desktop",
@@ -19275,7 +19275,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10 PRO-7800B with Radeon™ R7 Graphics",
+      "Model": "A10 PRO-7800B",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Desktops",
       "Platform": "Desktop",
@@ -19357,7 +19357,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8 PRO-7600B with Radeon™ R7 Graphics",
+      "Model": "A8 PRO-7600B",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A8 APU for Desktops",
       "Platform": "Desktop",
@@ -19439,7 +19439,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A6 PRO-7400B with Radeon™ R5 Graphics",
+      "Model": "A6 PRO-7400B",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A6 APU for Desktops",
       "Platform": "Desktop",
@@ -19521,7 +19521,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A4 PRO-7350B with Radeon™ R5 Graphics",
+      "Model": "A4 PRO-7350B",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A4 APU for Desktops",
       "Platform": "Desktop",
@@ -19603,7 +19603,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A4 PRO-7300B with Radeon™ HD 8470D",
+      "Model": "A4 PRO-7300BD",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A4 APU for Desktops",
       "Platform": "Desktop",
@@ -19685,7 +19685,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A10 PRO-7350B with Radeon™ R6 Graphics",
+      "Model": "A10 PRO-7350B",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A10 APU for Laptops",
       "Platform": "Laptop",
@@ -19808,7 +19808,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A8 PRO-7150B with Radeon™ R5 Graphics",
+      "Model": "A8 PRO-7150B",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A8 APU for Laptops",
       "Platform": "Laptop",
@@ -20013,7 +20013,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "A4 PRO-3340B with Radeon™ HD 8240 Graphics",
+      "Model": "A4 PRO-3340B Graphics",
       "Family": "AMD PRO A-Series Processors",
       "Line": "AMD PRO A-Series A4 APU for Laptops",
       "Platform": "Laptop",
@@ -20095,7 +20095,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "FX-7600P with Radeon™ R7 Graphics",
+      "Model": "FX-7600P",
       "Family": "AMD FX-Series Processors",
       "Line": "AMD FX-Series Processors for Laptops",
       "Platform": "Laptop",
@@ -20177,7 +20177,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ 3000G",
+      "Model": "3000G",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Desktop Processors with Radeon™ Graphics",
       "Platform": "Boxed Processor",
@@ -20218,7 +20218,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ 240GE",
+      "Model": "240GE",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -20300,7 +20300,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "FX-7500 with Radeon™ R7 Graphics",
+      "Model": "FX-7500",
       "Family": "AMD FX-Series Processors",
       "Line": "AMD FX-Series Processors for Laptops",
       "Platform": "Laptop",
@@ -20341,7 +20341,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ 220GE",
+      "Model": "220GE",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Boxed Processor",
@@ -20382,7 +20382,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "FX-8800P with Radeon™ R7 Graphics",
+      "Model": "FX-8800P",
       "Family": "AMD FX-Series Processors",
       "Line": "AMD FX-Series Processors for AIOs",
       "Platform": "All-in-One",
@@ -20464,7 +20464,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ 200GE",
+      "Model": "200GE",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Boxed Processor",
@@ -20505,7 +20505,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "Athlon™ 5370 APU with Radeon™ R3 Series",
+      "Model": "Athlon™ 5370 APU",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Quad-Core APU",
       "Platform": "Desktop",
@@ -20628,7 +20628,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "Athlon™ 5350 APU with Radeon™ R3 Series",
+      "Model": "Athlon™ 5350 APU",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Quad-Core APU",
       "Platform": "Boxed Processor",
@@ -20669,7 +20669,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ PRO 200U Mobile Processor with Radeon™ Vega 3 Graphics",
+      "Model": "PRO 200U Mobile Processor with Radeon™ Vega 3 Graphics",
       "Family": "AMD Athlon™ PRO Processors",
       "Line": "AMD Athlon™ PRO Mobile Processors with Radeon™ Vega Graphics",
       "Platform": "Laptop",
@@ -20751,7 +20751,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "Athlon™ 5150 APU with Radeon™ R3 Series",
+      "Model": "Athlon™ 5150 APU",
       "Family": "AMD Athlon™ Processors",
       "Line": "AMD Athlon™ Quad-Core APU",
       "Platform": "Boxed Processor",
@@ -20792,7 +20792,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Athlon™ PRO 200GE",
+      "Model": "PRO 200GE",
       "Family": "AMD Athlon™ PRO Processors",
       "Line": "AMD Athlon™ PRO Desktop Processors with Radeon™ Vega Graphics",
       "Platform": "Desktop",
@@ -20874,7 +20874,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "Sempron™ 3850 APU with Radeon™ R3 Series",
+      "Model": "3850 APU",
       "Family": "AMD Sempron™",
       "Line": "AMD Sempron™ Quad-Core APU",
       "Platform": "Boxed Processor",
@@ -20956,7 +20956,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "Sempron™ 2650 APU with Radeon™ R3 Series",
+      "Model": "2650 APU",
       "Family": "AMD Sempron™",
       "Line": "AMD Sempron™ Dual-Core APU",
       "Platform": "Boxed Processor",
@@ -20997,7 +20997,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E2-7110 with Radeon™ R2 Graphics",
+      "Model": "E2-7110",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E2-Series APU for Laptops",
       "Platform": "Laptop",
@@ -21079,7 +21079,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E2-7110 with Radeon™ R2 Graphics",
+      "Model": "E2-7110",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E2-Series APU for Laptops",
       "Platform": "Laptop",
@@ -21161,7 +21161,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E2-6110 with Radeon™ R2 Graphics",
+      "Model": "E2-6110",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E2-Series APU for Laptops",
       "Platform": "Laptop",
@@ -21243,7 +21243,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E2-3800 with Radeon™ HD 8280",
+      "Model": "E2-3800",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E2-Series APU for Laptops",
       "Platform": "Laptop",
@@ -21284,7 +21284,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E2-3000 with Radeon™ HD 8280",
+      "Model": "E2-3000",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E2-Series APU for Laptops",
       "Platform": "Laptop",
@@ -21530,7 +21530,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E2-7110 with Radeon™ R2 Graphics",
+      "Model": "E2-7110",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E2-Series APU for AIOs",
       "Platform": "All-in-One",
@@ -21776,7 +21776,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E1-7010 with Radeon™ R2 Graphics",
+      "Model": "E1-7010",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E1-Series APU for Laptops",
       "Platform": "Laptop",
@@ -21899,7 +21899,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E1 Micro-6200T with Radeon™ R2 Graphics",
+      "Model": "E1 Micro-6200T",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E1-Series APU for Laptops",
       "Platform": "Laptop, Tablet",
@@ -21981,7 +21981,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E1-6010 with Radeon™ R2 Graphics",
+      "Model": "E1-6010",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E1-Series APU for Laptops",
       "Platform": "Laptop",
@@ -22063,7 +22063,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E1-2500 with Radeon™ HD 8240",
+      "Model": "E1-2500",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E1-Series APU for Laptops",
       "Platform": "Laptop",
@@ -22145,7 +22145,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E1-2200 with Radeon™ HD 8210",
+      "Model": "E1-2200",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E1-Series APU for Laptops",
       "Platform": "Laptop",
@@ -22268,7 +22268,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E1-2100 with Radeon™ HD 8210",
+      "Model": "E1-2100",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E1-Series APU for Laptops",
       "Platform": "Laptop",
@@ -22391,7 +22391,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "E1-7010 with Radeon™ R2 Graphics",
+      "Model": "E1-7010",
       "Family": "AMD E-Series Processors",
       "Line": "AMD E1-Series APU for AIOs",
       "Platform": "All-in-One",
@@ -22801,7 +22801,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Opteron™ X2170",
+      "Model": "Opteron™ X2170",
       "Family": "AMD Opteron™",
       "Line": "AMD Opteron™ X2100 Series APU",
       "Platform": "Server",
@@ -22883,7 +22883,7 @@
     {
       "0": "on",
       "": 0,
-      "Model": "AMD Opteron™ X2150 APU",
+      "Model": "Opteron™ X2150 APU",
       "Family": "AMD Opteron™",
       "Line": "AMD Opteron™ X2100 Series APU",
       "Platform": "Server",
