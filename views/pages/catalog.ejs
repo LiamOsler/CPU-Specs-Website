@@ -37,11 +37,8 @@
                         
                         <% catalog.data.forEach(function(item) { %>
                             <tr>
-                                <td class="d-xs-table-cell">
-                                    <button type="button" class="btn btn-light btn-lg btn-block" data-toggle="modal" data-target="#itemModal" onClick = "modalContent(this)">
-                                        <div class = "PCDBID" style = "display: none">
-                                            <%= item["PCDBID"] %>
-                                        </div>
+                                <td class="d-xs-table-cell model-cell">
+                                    <button id = "<%= item["PCDBID"]%>" type="button" class="btn btn-light btn-lg btn-block" data-toggle="modal" data-target="#itemModal" onClick = "modalContent(this)" >
                                         <%= item["Model"] %>
                                     </button>
                                 </td>
@@ -79,6 +76,8 @@
 </footer>
 
 <script>
+    $('#itemModal').modal('show');
+
     $(document).ready(function() {
         $('#example').DataTable(
             {
@@ -96,14 +95,32 @@
         );
     } );
 
-    let test = '<%- JSON.stringify(catalog.data) %>'; // test is now a valid js object
-    console.log(test);
+    let catalog = JSON.parse('<%- JSON.stringify(catalog) %>');
+    
 
-        function modalContent(input){
-         console.log(input);
+    console.log(catalog.data);
+
+    function modalContent(input){
+        let currentItem;
+        console.log(input.id);
+        for (let obj of catalog.data){
+            if(obj["PCDBID"] == input.id){
+                currentItem = obj;
+                break;
+            }
         }
-</script>
+        document.getElementById("itemModalTitle").innerText = currentItem["Model"];
+        document.getElementById("itemModalManufacturer").innerText = currentItem["Manufacturer"];
+        document.getElementById("itemModalFamily").innerText = currentItem["Family"];
+        document.getElementById("itemModalPlatform").innerText = currentItem["Platform"];
+        document.getElementById("itemModalCPUSocket").innerText = currentItem["CPU Socket"];
+        document.getElementById("itemModalCPUCores").innerText = currentItem["CPU Cores"];
+        document.getElementById("itemModalCPUThreads").innerText = currentItem["Threads"];
+        document.getElementById("itemModalBaseClock").innerText = currentItem["Base Clock"];
+        document.getElementById("itemModalBoostClock").innerText = currentItem["Boost Clock"];
 
+    }
+</script>
 </body>
 </html>
 
