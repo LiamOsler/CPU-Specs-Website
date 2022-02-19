@@ -1,16 +1,31 @@
-<div class = "container-fluid mt-4" >
+<div class = "container mt-4" >
     <div class = row>
         <div class = "col-12">
             <div class="card bg-dark">
                 <div class="card-body">
-                    <h1>Select Item Type:</h1>
+                    <h1>Browse Item Type:</h1>
                     <div class="card-columns">
                         <% categories.forEach(function(categories) { %>
-                            <a href = "../catalog/<%= categories.type %>" class="card bg-dark border-success mb-3">
-                                <h5 class="card-header">
-                                    <%= categories.type %>
-                                </h5>
+                            <% if(categories.status == 0) { %>
+                                <div href = "../catalog/<%= categories.type %>" class="card category-cards bg-dark border-danger mb-3">
+                                <h1 class="card-header">
+                                    <%= categories.plural %>
+                                </h1>
+                                <p class="card-body">
+                                    <%= categories.description %>
+                                </p>
+                            </div>  
+                            <% }%>
+                            <% if(categories.status == 1) { %>
+                                <a href = "../catalog/<%= categories.type %>" class="card category-cards bg-dark border-success mb-3">
+                                <h1 class="card-header">
+                                    <%= categories.plural %>
+                                </h1>
+                                <p class="card-body">
+                                    <%= categories.description %>
+                                </p>
                             </a>  
+                            <% }%>
                         <% }); %>
                     </div>
                 </div>  

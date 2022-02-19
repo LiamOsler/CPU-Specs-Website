@@ -28,7 +28,14 @@ footer a:hover{
     box-shadow: 0 2px 5px rgba(0,0,0,0.3);
     transition: box-shadow 0.3s ease-in-out;
   
-  }
+}
+
+.dataTables_scrollHead{
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 10;
+}
+
 .jumbotron:hover{ 
     box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
 }
@@ -41,6 +48,18 @@ footer a:hover{
 .card:hover{
     box-shadow: 0 2px 5px rgba(0,0,0,0.3);
     transition: box-shadow 0.3s ease-in-out;
+}
+
+.border-success{
+    text-decoration: none !important;
+}
+
+.border-success h1{
+    color:#228d3a;
+}
+
+.border-danger h1{
+    color:#db3545;
 }
 
 #itemModal p{
