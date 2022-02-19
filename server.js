@@ -163,7 +163,6 @@ for (let obj of  cpu_intel_desktop.data){
 
 console.log("hello");
 
-console.log(catalog.data[800]);
 
 
 //Page Structure:

@@ -1,0 +1,60 @@
+
+<div class = "container-fluid mt-4" >
+    <div class = row>
+        <div class = "col-12">
+            <div class="card bg-dark">
+                <div class="card-body">
+                    <h1>CPU Catalog</h1>
+                    <p class="card-text">Covers AMD Athlon through to Ryzen 6000, Intel Desktop and Laptop processors from 4th Generation</p>
+                    <table id="example" class="table table-dark table-striped table-hover" style="width:100%">
+                        <thead>
+                        <tr>
+                            <th class="d-xs-table-cell model-cell" scope="col">Model</th>
+                            <th class="d-xs-table-cell" scope="col">Man.</th>
+                            <th class="d-xs-table-cell" scope="col">Family</th>
+                            <th class="d-none d-md-table-cell" scope="col">CPU Socket</th>
+                            <th class="d-none d-md-table-cell" scope="col">CPU Cores</th>
+                            <th class="d-none d-md-table-cell" scope="col">Threads</th>
+                            <th class="d-none d-md-table-cell" scope="col">Base Clock</th>
+                            <th class="d-none d-md-table-cell" scope="col">Boost Clock</th>
+                            <th class="d-none d-xl-table-cell" scope="col">L1 Cache</th>
+                            <th class="d-none d-xl-table-cell" scope="col">L2 Cache</th>
+                            <th class="d-none d-xl-table-cell" scope="col">L3 Cache</th>
+                            <th class="d-none d-xl-table-cell" scope="col">Total Cache</th>
+                            <th class="d-none d-xl-table-cell" scope="col">Default TDP</th>
+                        </tr>
+                        </thead>
+                        
+                        <% catalog.data.forEach(function(item) { %>
+                            <tr>
+                                <td class="d-xs-table-cell model-cell">
+                                    <button id = "<%= item["PCDBID"]%>" type="button" class="btn btn-light btn-lg btn-block" data-toggle="modal" data-target="#itemModal" onClick = "modalContent(this)" >
+                                        <%= item["Model"] %>
+                                    </button>
+                                </td>
+                                <td class="d-xs-table-cell"><%= item["Manufacturer"] %></td>
+                                <td class="d-xs-table-cell"><%= item["Family"] %></td>
+                                <td class="d-none d-md-table-cell"><%= item["CPU Socket"] %></td>
+                                <td class="d-none d-md-table-cell"><%= item["CPU Cores"] %></td>
+                                <td class="d-none d-md-table-cell"><%= item["Threads"] %></td>
+                                <td class="d-none d-md-table-cell"><%= item["Base Clock"] %></td>
+                                <td class="d-none d-md-table-cell"><%= item["Boost Clock"] %></td>
+                                <td class="d-none d-xl-table-cell" ><%= item["Total L1 Cache"] %></td>
+                                <td class="d-none d-xl-table-cell" ><%= item["Total L2 Cache"] %></td>
+                                <td class="d-none d-xl-table-cell" ><%= item["Total L3 Cache"] %></td>
+                                <td class="d-none d-xl-table-cell" ><%= item["Total Cache"] %></td>
+                                <td class="d-none d-xl-table-cell" ><%= item["Default TDP"] %></td>
+                            </tr>
+                        <% }); %>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+
+
+</script>

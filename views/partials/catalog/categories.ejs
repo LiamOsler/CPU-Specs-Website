@@ -1,0 +1,20 @@
+<div class = "container-fluid mt-4" >
+    <div class = row>
+        <div class = "col-12">
+            <div class="card bg-dark">
+                <div class="card-body">
+                    <h1>Select Item Type:</h1>
+                    <div class="card-columns">
+                        <% categories.forEach(function(categories) { %>
+                            <a href = "../catalog/<%= categories.type %>" class="card bg-dark border-success mb-3">
+                                <h5 class="card-header">
+                                    <%= categories.type %>
+                                </h5>
+                            </a>  
+                        <% }); %>
+                    </div>
+                </div>  
+            </div>  
+        </div>  
+    </div>  
+</div>  
