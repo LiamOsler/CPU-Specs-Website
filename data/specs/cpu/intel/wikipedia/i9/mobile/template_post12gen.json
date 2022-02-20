@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "Name" : "",
+        "All models support" : "",
+        "Other model support" : "",
+        "Overclocking" : "",
+        "PCI Express lanes": "",
+        "Memory type" : "",
+        "Max Memory Size" : "",
+        "Max memory channels" : "",
+        "Max Memory Bandwidth" : ""
+    },
+    "header": [
+        "Modelnumber",
+        "P-core (performance) cores (threads)",
+        "P-core (performance) Freq.",
+        "P-core (performance) Turbo",
+        "P-core (performance) L2 Cache",
+        "E-core (efficiency) cores (threads)",
+        "E-core (efficiency) Freq.",
+        "E-core (efficiency) Turbo",
+        "E-core (efficiency) L2cache",
+        "L3cache",
+        "GPUmodel",
+        "GPUfrequency",
+        "Power",
+        "Max Power",
+        "Socket",
+        "IO bus",
+        "Release date",
+        "sSpecnumber",
+        "Partnumber(s)",
+        "Releaseprice (USD)"
+    ],
+    "data":[
+            {},
+            {}
+        ]
+}

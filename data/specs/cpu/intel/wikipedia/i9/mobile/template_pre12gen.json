@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "Name" : "",
+        "All models support" : "",
+        "Other model support" : "",
+        "Overclocking" : "",
+        "PCI Express lanes": "",
+        "Memory type" : "",
+        "Max Memory Size" : "",
+        "Max memory channels" : "",
+        "Max Memory Bandwidth" : ""
+    },
+    "header": [
+        "Modelnumber",
+        "sSpecnumber",
+        "Cores(threads)",
+        "Frequency",
+        "Turbo",
+        "L2cache",
+        "L3cache",
+        "GPUmodel",
+        "GPUfrequency",
+        "TDP",
+        "Socket",
+        "IO bus",
+        "Release date",
+        "Partnumber(s)",
+        "Releaseprice (USD)"
+    ],
+    "data":[
+            {},
+            {}
+        ]
+}

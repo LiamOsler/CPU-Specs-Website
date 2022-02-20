@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "Name" : "Coffee Lake-H (14 nm, 8th generation)",
+        "All models support" : "No support for AVX-512, Supports Intel processors with Thermal Velocity Boost",
+        "Other model support" : "",
+        "Overclocking" : "Overclocking: unlocked multiplier on HK models; locked multiplier on H models",
+        "PCI Express lanes": "",
+        "Memory type" : "",
+        "Max Memory Size" : "",
+        "Max memory channels" : "",
+        "Max Memory Bandwidth" : ""
+    },
+    "header": [
+        "Modelnumber",
+        "sSpecnumber",
+        "Cores(threads)",
+        "Frequency",
+        "Turbo",
+        "L2cache",
+        "L3cache",
+        "GPUmodel",
+        "GPUfrequency",
+        "TDP",
+        "Socket",
+        "IO bus",
+        "Release date",
+        "Partnumber(s)",
+        "Releaseprice (USD)"
+    ],
+    "data":[
+            {},
+            {}
+        ]
+}

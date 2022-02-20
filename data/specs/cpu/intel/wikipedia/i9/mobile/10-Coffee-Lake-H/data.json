@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "Name" : "Coffee Lake-H (14 nm, 8th generation)",
+        "All models support" : "Supports Intel processors with Thermal Velocity Boost.",
+        "Other model support" : "",
+        "Overclocking" : "Overclocking: unlocked multiplier on HK models; locked multiplier on H models.",
+        "PCI Express lanes": "",
+        "Memory type" : "",
+        "Max Memory Size" : "",
+        "Max memory channels" : "",
+        "Max Memory Bandwidth" : ""
+    },
+    "header": [
+        "Modelnumber",
+        "sSpecnumber",
+        "Cores(threads)",
+        "Frequency",
+        "Turbo",
+        "L2cache",
+        "L3cache",
+        "GPUmodel",
+        "GPUfrequency",
+        "TDP",
+        "Socket",
+        "IO bus",
+        "Release date",
+        "Partnumber(s)",
+        "Releaseprice (USD)"
+    ],
+    "data":[
+      {
+        "Modelnumber": "Core i9-10885H",
+        "sSpecnumber": "SRJ8J (R1)",
+        "Cores(threads)": "8  (16)",
+        "Frequency": "2.4 GHz",
+        "Turbo": "5.1 GHz(5.3GHz TVB)",
+        "L2cache": "8 * 256 KB",
+        "L3cache": "16 MB",
+        "GPUmodel": "UHD Graphics 630",
+        "GPUfrequency": "350-1250 MHz",
+        "TDP": "45 W",
+        "Socket": "BGA 1440",
+        "IO bus": "DMI 3.0",
+        "Release date": "May-20",
+        "Partnumber(s)": "CL8070104398814",
+        "Releaseprice (USD)": "$556"
+      },
+      {
+        "Modelnumber": "Core i9-10980HK",
+        "sSpecnumber": "SRH8T (R1)",
+        "Cores(threads)": "8  (16)",
+        "Frequency": "2.4 GHz",
+        "Turbo": "5.1 GHz(5.3GHz TVB)",
+        "L2cache": "8 * 256 KB",
+        "L3cache": "16 MB",
+        "GPUmodel": "UHD Graphics 630",
+        "GPUfrequency": "350-1250 MHz",
+        "TDP": "45 W",
+        "Socket": "BGA 1440",
+        "IO bus": "DMI 3.0",
+        "Release date": "Apr-20",
+        "Partnumber(s)": "CL8070104502004",
+        "Releaseprice (USD)": "$583"
+      }
+     ]
+}
