@@ -1,4 +1,3 @@
-
 {
     "header": [
       [
@@ -36,8 +35,8 @@
     ],
     "data": [
         {
-        "Processor Number": "i9-12900K",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-12900K",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q4",
         "Year launch": 2021,
@@ -68,8 +67,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i9-12900KF",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-12900KF",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q4",
         "Year launch": 2021,
@@ -100,8 +99,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-12900F",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-12900F",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -132,8 +131,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-12900",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-12900",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -164,8 +163,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i7-12700",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-12700",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -196,8 +195,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i7-12700F",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-12700F",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -228,8 +227,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": " i9-12900T",
-        "Brand Modifier": "i9",
+        "Processor Number": " Core i9-12900T",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q4",
         "Year launch": 2021,
@@ -260,8 +259,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i7-12700K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-12700K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -292,8 +291,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i7-12700KF",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-12700KF",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -324,8 +323,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "15-12600",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-12600",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -356,8 +355,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i5-12400",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-12400",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -388,8 +387,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i5-12400F",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-12400F",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -420,8 +419,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-12700T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-12700T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -452,8 +451,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i5-12400T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-12400T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -484,8 +483,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i5-12500",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-12500",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -516,8 +515,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i5-12500T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-12500T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -548,8 +547,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i5-12600K",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-12600K",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -580,8 +579,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i5-12600KF",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-12600KF",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q4",
         "Year launch": 2021,
@@ -612,8 +611,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i3-12300",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-12300",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -644,8 +643,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i3-12100",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-12100",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -676,8 +675,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i3-12100F",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-12100F",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -708,8 +707,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-12600T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-12600T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -740,8 +739,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i3-12300T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-12300T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -772,8 +771,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i3-12100T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-12100T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "12th",
         "Quarter Launch": "Q1",
         "Year launch": 2022,
@@ -804,8 +803,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @ 120Hz"
         },
         {
-        "Processor Number": "i7-11700",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-11700",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -836,8 +835,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i9-11900T",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-11900T",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -868,8 +867,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @60Hz"
         },
         {
-        "Processor Number": "i9-11900KF",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-11900KF",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -900,8 +899,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-11900K",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-11900K",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -932,8 +931,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @60Hz"
         },
         {
-        "Processor Number": "i9-11900F",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-11900F",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -964,8 +963,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-11900",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-11900",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -996,8 +995,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @60Hz"
         },
         {
-        "Processor Number": "i7-11700T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-11700T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1028,8 +1027,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @60Hz"
         },
         {
-        "Processor Number": "i7-11700KF",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-11700KF",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1060,8 +1059,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-11700K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-11700K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1092,8 +1091,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @60Hz"
         },
         {
-        "Processor Number": "i7-11700F",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-11700F",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1124,8 +1123,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-11600T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-11600T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1156,8 +1155,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @60Hz"
         },
         {
-        "Processor Number": "i5-11600KF",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-11600KF",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1188,8 +1187,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-11600K",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-11600K",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1220,8 +1219,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @60Hz"
         },
         {
-        "Processor Number": "i5-11600",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-11600",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1252,8 +1251,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @60Hz"
         },
         {
-        "Processor Number": "i5-11500T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-11500T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1284,8 +1283,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @60Hz"
         },
         {
-        "Processor Number": "i5-11500",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-11500",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1316,8 +1315,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "5120 x 3200 @60Hz"
         },
         {
-        "Processor Number": "i5-11400F",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-11400F",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "11th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1348,8 +1347,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i3-10325",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10325",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1380,8 +1379,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-10305T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10305T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1412,8 +1411,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-10305",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10305",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1444,8 +1443,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-10105T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10105T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1476,8 +1475,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-10105",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10105",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1508,8 +1507,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-10105F",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10105F",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q1",
         "Year launch": 2021,
@@ -1540,8 +1539,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i3-10100F",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10100F",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q4",
         "Year launch": 2020,
@@ -1572,8 +1571,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-10850K",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-10850K",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q3",
         "Year launch": 2020,
@@ -1604,8 +1603,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i9-10900T",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-10900T",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1636,8 +1635,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i9-10900KF",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-10900KF",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1668,8 +1667,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-10900K",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-10900K",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1700,8 +1699,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i9-10900F",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-10900F",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1732,8 +1731,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-10900",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-10900",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1764,8 +1763,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-10700T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-10700T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1796,8 +1795,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-10700KF",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-10700KF",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1828,8 +1827,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-10700K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-10700K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1860,8 +1859,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-10700F",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-10700F",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1892,8 +1891,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-10700",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-10700",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1924,8 +1923,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-10600T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-10600T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1956,8 +1955,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-10600KF",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-10600KF",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -1988,8 +1987,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-10600K",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-10600K",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2020,8 +2019,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-10600",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-10600",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2052,8 +2051,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-10500T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-10500T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2084,8 +2083,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-10500",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-10500",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2116,8 +2115,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-10400T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-10400T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2148,8 +2147,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-10400F",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-10400F",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2180,8 +2179,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-10400",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-10400",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2212,8 +2211,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-10320",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10320",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2244,8 +2243,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-10300T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10300T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2276,8 +2275,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-10300",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10300",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2308,8 +2307,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-10100T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10100T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2340,8 +2339,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-10100",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-10100",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "10th",
         "Quarter Launch": "Q2",
         "Year launch": 2020,
@@ -2372,8 +2371,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i9-9900KS",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9900KS",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q4",
         "Year launch": 2019,
@@ -2404,8 +2403,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i9-10980XE",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-10980XE",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2019,
@@ -2436,8 +2435,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-10940X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-10940X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2019,
@@ -2468,8 +2467,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-10920X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-10920X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2019,
@@ -2500,8 +2499,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-10900X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-10900X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2019,
@@ -2532,8 +2531,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-9900T",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9900T",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2564,8 +2563,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i9-9900",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9900",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2596,8 +2595,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-9700T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-9700T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2628,8 +2627,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-9700F",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-9700F",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2660,8 +2659,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-9700",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-9700",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2692,8 +2691,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-9600T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-9600T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2724,8 +2723,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-9600",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-9600",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2756,8 +2755,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-9500T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-9500T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2788,8 +2787,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-9500F",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-9500F",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2820,8 +2819,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-9500",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-9500",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2852,8 +2851,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-9400T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-9400T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2884,8 +2883,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-9350K",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-9350K",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2916,8 +2915,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-9320",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-9320",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2948,8 +2947,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-9300T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-9300T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -2980,8 +2979,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-9300",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-9300",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -3012,8 +3011,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-9100T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-9100T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -3044,8 +3043,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-9100F",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-9100F",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -3076,8 +3075,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i3-9100",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-9100",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q2",
         "Year launch": 2019,
@@ -3108,8 +3107,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i9-9900KF",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9900KF",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q1",
         "Year launch": 2019,
@@ -3140,8 +3139,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-9700KF",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-9700KF",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q1",
         "Year launch": 2019,
@@ -3172,8 +3171,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-9600KF",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-9600KF",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q1",
         "Year launch": 2019,
@@ -3204,8 +3203,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-9400F",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-9400F",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q1",
         "Year launch": 2019,
@@ -3236,8 +3235,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-9400",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-9400",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q1",
         "Year launch": 2019,
@@ -3268,8 +3267,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-9350KF",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-9350KF",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q1",
         "Year launch": 2019,
@@ -3300,8 +3299,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-9980XE",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9980XE",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2018,
@@ -3332,8 +3331,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-9960X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9960X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2018,
@@ -3364,8 +3363,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-9940X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9940X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2018,
@@ -3396,8 +3395,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-9920X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9920X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2018,
@@ -3428,8 +3427,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-9900X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9900X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2018,
@@ -3460,8 +3459,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-9900K",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9900K",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q4",
         "Year launch": 2018,
@@ -3492,8 +3491,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i9-9820X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-9820X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2018,
@@ -3524,8 +3523,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-9800X",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-9800X",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q4",
         "Year launch": 2018,
@@ -3556,8 +3555,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-9700K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-9700K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q4",
         "Year launch": 2018,
@@ -3588,8 +3587,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-9600k",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-9600k",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "9th ",
         "Quarter Launch": "Q4",
         "Year launch": 2018,
@@ -3620,8 +3619,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-8700T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-8700T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3652,8 +3651,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-8700",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-8700",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3684,8 +3683,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-8086K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-8086K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3716,8 +3715,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-8600T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-8600T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3748,8 +3747,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-8600",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-8600",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3780,8 +3779,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-8500T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-8500T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3812,8 +3811,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-8500",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-8500",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3844,8 +3843,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-8500",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-8500",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3876,8 +3875,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-8400T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-8400T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3908,8 +3907,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-8400",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-8400",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3940,8 +3939,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-8300T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-8300T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -3972,8 +3971,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-8300",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-8300",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -4004,8 +4003,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-8100T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-8100T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q2",
         "Year launch": 2018,
@@ -4036,8 +4035,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-8700K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-8700K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q4",
         "Year launch": 2017,
@@ -4068,8 +4067,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-8700",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-8700",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q4",
         "Year launch": 2017,
@@ -4100,8 +4099,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-8600K",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-8600K",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q4",
         "Year launch": 2017,
@@ -4132,8 +4131,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-8400",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-8400",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q4",
         "Year launch": 2017,
@@ -4164,8 +4163,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-8350K",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-8350K",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q4",
         "Year launch": 2017,
@@ -4196,8 +4195,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-8100",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-8100",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "8th ",
         "Quarter Launch": "Q4",
         "Year launch": 2017,
@@ -4228,8 +4227,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i9-7980XE",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-7980XE",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q3",
         "Year launch": 2017,
@@ -4260,8 +4259,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-7960X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-7960X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q3",
         "Year launch": 2017,
@@ -4292,8 +4291,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-7940X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-7940X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q3",
         "Year launch": 2017,
@@ -4324,8 +4323,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-7920X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-7920X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q3",
         "Year launch": 2017,
@@ -4356,8 +4355,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i9-7900X",
-        "Brand Modifier": "i9",
+        "Processor Number": "Core i9-7900X",
+        "Brand Modifier": "Core i9",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q2",
         "Year launch": 2017,
@@ -4388,8 +4387,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-7820X",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-7820X",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q2",
         "Year launch": 2017,
@@ -4420,8 +4419,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-7800X",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-7800X",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q2",
         "Year launch": 2017,
@@ -4452,8 +4451,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-7740X",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-7740X",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q2",
         "Year launch": 2017,
@@ -4484,8 +4483,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-7640X",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-7640X",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q2",
         "Year launch": 2017,
@@ -4516,8 +4515,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-7700T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-7700T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4548,8 +4547,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-7700K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-7700K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4580,8 +4579,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-7700",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-7700",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4612,8 +4611,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-7600T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-7600T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4644,8 +4643,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-7600K",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-7600K",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4676,8 +4675,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-7600",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-7600",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4708,8 +4707,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-7500T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-7500T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4740,8 +4739,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-7500",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-7500",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4772,8 +4771,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-7400T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-7400T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4804,8 +4803,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-7400",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-7400",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4836,8 +4835,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-7350K",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-7350K",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4868,8 +4867,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-7320",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-7320",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4900,8 +4899,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-7300T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-7300T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4932,8 +4931,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-7300",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-7300",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4964,8 +4963,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-7101TE",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-7101TE",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -4996,8 +4995,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-7101E",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-7101E",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -5028,8 +5027,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-7100T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-7100T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -5060,8 +5059,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-7100",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-7100",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "7th ",
         "Quarter Launch": "Q1",
         "Year launch": 2017,
@@ -5092,8 +5091,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i7-6950X",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-6950X",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q2",
         "Year launch": 2016,
@@ -5124,8 +5123,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-6900K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-6900K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q2",
         "Year launch": 2016,
@@ -5156,8 +5155,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-6850K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-6850K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q2",
         "Year launch": 2016,
@@ -5188,8 +5187,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-6800K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-6800K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q2",
         "Year launch": 2016,
@@ -5220,8 +5219,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-6785R",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-6785R",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q2",
         "Year launch": 2016,
@@ -5252,8 +5251,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i5-6685R",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-6685R",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q2",
         "Year launch": 2016,
@@ -5284,8 +5283,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-6585R",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-6585R",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q2",
         "Year launch": 2016,
@@ -5316,8 +5315,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-6402P",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-6402P",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q4",
         "Year launch": 2015,
@@ -5348,8 +5347,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i3-6098P",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-6098P",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q4",
         "Year launch": 2015,
@@ -5380,8 +5379,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i7-6700T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-6700T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5412,8 +5411,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i7-6700K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-6700K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5444,8 +5443,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i7-6700",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-6700",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5476,8 +5475,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i5-6600T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-6600T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5508,8 +5507,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-6600K",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-6600K",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5540,8 +5539,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-6600",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-6600",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5572,8 +5571,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-6500T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-6500T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5604,8 +5603,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-6500",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-6500",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5636,8 +5635,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096 x 2304@60Hz"
         },
         {
-        "Processor Number": "i5-6400T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-6400T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5668,8 +5667,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i5-6400",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-6400",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5700,8 +5699,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i3-6320",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-6320",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5732,8 +5731,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i3-6300T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-6300T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5764,8 +5763,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i3-6300",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-6300",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5796,8 +5795,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i3-6100T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-6100T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5828,8 +5827,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i3-6100",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-6100",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "6th ",
         "Quarter Launch": "Q3",
         "Year launch": 2015,
@@ -5860,8 +5859,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "4096x2304@60Hz"
         },
         {
-        "Processor Number": "i7-5775R",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-5775R",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "5th ",
         "Quarter Launch": "Q2",
         "Year launch": 2015,
@@ -5892,8 +5891,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-5775C",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-5775C",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "5th ",
         "Quarter Launch": "Q2",
         "Year launch": 2015,
@@ -5924,8 +5923,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-5675R",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-5675R",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "5th ",
         "Quarter Launch": "Q2",
         "Year launch": 2015,
@@ -5956,8 +5955,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-5675C",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-5675C",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "5th ",
         "Quarter Launch": "Q2",
         "Year launch": 2015,
@@ -5988,8 +5987,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-5575R",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-5575R",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "5th ",
         "Quarter Launch": "Q2",
         "Year launch": 2015,
@@ -6020,8 +6019,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4170",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4170",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q1",
         "Year launch": 2015,
@@ -6052,8 +6051,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4170T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4170T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q1",
         "Year launch": 2015,
@@ -6084,8 +6083,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4370T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4370T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q1",
         "Year launch": 2015,
@@ -6116,8 +6115,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-5960X",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-5960X",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q3",
         "Year launch": 2014,
@@ -6148,8 +6147,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-5930K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-5930K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q3",
         "Year launch": 2014,
@@ -6180,8 +6179,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-5820K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-5820K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q3",
         "Year launch": 2014,
@@ -6212,8 +6211,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i3-4160",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4160",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2014,
@@ -6244,8 +6243,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4160T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4160T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2014,
@@ -6276,8 +6275,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4360T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4360T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2014,
@@ -6308,8 +6307,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4370",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4370",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2014,
@@ -6340,8 +6339,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4150",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4150",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6372,8 +6371,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4150T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4150T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6404,8 +6403,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4350",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4350",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6436,8 +6435,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4350T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4350T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6468,8 +6467,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4360",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4360",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6500,8 +6499,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4460",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4460",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6532,8 +6531,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4460S",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4460S",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6564,8 +6563,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4460T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4460T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6596,8 +6595,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4590",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4590",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6628,8 +6627,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4590S",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4590S",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6660,8 +6659,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4590T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4590T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6692,8 +6691,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4690",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4690",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6724,8 +6723,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4690K",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4690K",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6756,8 +6755,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4690S",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4690S",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6788,8 +6787,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4690T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4690T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6820,8 +6819,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4785T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4785T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6852,8 +6851,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4790",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4790",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6884,8 +6883,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4790K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4790K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6916,8 +6915,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4790S",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4790S",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6948,8 +6947,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4790T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4790T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2014,
@@ -6980,8 +6979,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4130",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4130",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7012,8 +7011,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4130T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4130T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7044,8 +7043,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4330",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4330",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7076,8 +7075,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4330T",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4330T",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7108,8 +7107,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i3-4340",
-        "Brand Modifier": "i3",
+        "Processor Number": "Core i3-4340",
+        "Brand Modifier": "Core i3",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7140,8 +7139,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4440",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4440",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7172,8 +7171,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4440S",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4440S",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7204,8 +7203,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4771",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4771",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7236,8 +7235,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4820K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4820K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7268,8 +7267,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-4930K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4930K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7300,8 +7299,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-4960X",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4960X",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": " X-series ",
         "Quarter Launch": "Q3",
         "Year launch": 2013,
@@ -7332,8 +7331,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i5-4430",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4430",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7364,8 +7363,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4430S",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4430S",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7396,8 +7395,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4570",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4570",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7428,8 +7427,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4570R",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4570R",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7460,8 +7459,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4570S",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4570S",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7492,8 +7491,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4570T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4570T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7524,8 +7523,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4670",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4670",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7556,8 +7555,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4670K",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4670K",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7588,8 +7587,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4670R",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4670R",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7620,8 +7619,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4670S",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4670S",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7652,8 +7651,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i5-4670T",
-        "Brand Modifier": "i5",
+        "Processor Number": "Core i5-4670T",
+        "Brand Modifier": "Core i5",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7684,8 +7683,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4765T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4765T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7716,8 +7715,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4770",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4770",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7748,8 +7747,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4770K",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4770K",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7780,8 +7779,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4770R",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4770R",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7812,8 +7811,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": ""
         },
         {
-        "Processor Number": "i7-4770S",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4770S",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
@@ -7844,8 +7843,8 @@
         "Max Resolution (eDP - Integrated Flat Panel)‡": "3840x2160@60Hz"
         },
         {
-        "Processor Number": "i7-4770T",
-        "Brand Modifier": "i7",
+        "Processor Number": "Core i7-4770T",
+        "Brand Modifier": "Core i7",
         "Intel® Core™ Generation": "4th ",
         "Quarter Launch": "Q2",
         "Year launch": 2013,
