@@ -1,10 +1,2 @@
-module.exports = {
-    add: function (x, y) {
-      return x + y;
-    },
-  
-    subtract: function (x, y) {
-      return x - y;
-    },
-    num: 33,
-  };
+const fs = require('fs');
+console.log("hello");

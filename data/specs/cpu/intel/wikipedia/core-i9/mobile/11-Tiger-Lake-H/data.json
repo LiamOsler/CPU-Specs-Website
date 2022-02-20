@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "Name" : "Tiger Lake-H (10 nm SuperFin, 11th generation)",
+        "All models support" : "SSE4.1, SSE4.2, AVX2, AVX-512, FMA3, Speed Shift Technology (SST), Intel 64, Intel VT-x, Intel VT-d, Turbo Boost, Hyper-threading, AES-NI, Smart Cache, DL Boost, Optane memory, GNA 2.0, IPU6, TB4, and configurable TDP (cTDP)",
+        "Other model support" : "",
+        "Overclocking" : "",
+        "PCI Express lanes": "",
+        "Memory type" : "",
+        "Max Memory Size" : "",
+        "Max memory channels" : "",
+        "Max Memory Bandwidth" : ""
+    },
+    "header": [
+        "Modelnumber",
+        "sSpecnumber",
+        "Cores(threads)",
+        "Frequency",
+        "Turbo",
+        "L2cache",
+        "L3cache",
+        "GPUmodel",
+        "GPUfrequency",
+        "TDP",
+        "Socket",
+        "IO bus",
+        "Release date",
+        "Partnumber(s)",
+        "Releaseprice (USD)"
+    ],
+    "data":[
+        {
+          "Modelnumber": "Core i9-11900H",
+          "sSpecnumber": "SRKT7 (R0)",
+          "Cores(threads)": "8  (16)",
+          "Frequency": "2.1-2.5 GHz",
+          "Turbo": "4.9 GHz",
+          "L2cache": "8 * 1.25 MB",
+          "L3cache": "24 MB",
+          "GPUmodel": "UHD Graphics (32 EU)",
+          "GPUfrequency": "350-1450 MHz",
+          "TDP": "35-45 W",
+          "Memory": "2* DDR4-3200",
+          "Release date": "May-21",
+          "Partnumber(s)": "FH8069004352617",
+          "Releaseprice (USD)": "$546"
+        },
+        {
+          "Modelnumber": "Core i9-11950H",
+          "sSpecnumber": "SRKT6 (R0)",
+          "Cores(threads)": "8  (16)",
+          "Frequency": "2.1-2.6 GHz",
+          "Turbo": "5.0 GHz",
+          "L2cache": "8 * 1.25 MB",
+          "L3cache": "24 MB",
+          "GPUmodel": "UHD Graphics (32 EU)",
+          "GPUfrequency": "350-1450 MHz",
+          "TDP": "35-45 W",
+          "Memory": "2* DDR4-3200",
+          "Release date": "May-21",
+          "Partnumber(s)": "FH8069004352616",
+          "Releaseprice (USD)": "$556"
+        },
+        {
+          "Modelnumber": "Core i9-11980HK",
+          "sSpecnumber": "SRKSZ (R0)",
+          "Cores(threads)": "8  (16)",
+          "Frequency": "2.6-3.3 GHz",
+          "Turbo": "5.0 GHz",
+          "L2cache": "8 * 1.25 MB",
+          "L3cache": "24 MB",
+          "GPUmodel": "UHD Graphics (32 EU)",
+          "GPUfrequency": "350-1450 MHz",
+          "TDP": "45-65 W",
+          "Memory": "2* DDR4-3200",
+          "Release date": "May-21",
+          "Partnumber(s)": "FH8069004351114",
+          "Releaseprice (USD)": "$583"
+        }
+       ]
+}
