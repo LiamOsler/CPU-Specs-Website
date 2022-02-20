@@ -107,7 +107,7 @@ for (let obj of cpu_amd.data){
 
 //Intel:
 //Laptop Processors:
-let cpu_intel_laptop_raw = fs.readFileSync('data/specs/cpu/intel/website/laptop.json');
+let cpu_intel_laptop_raw = fs.readFileSync('data/specs/cpu/intel/intel_website/laptop.json');
 let cpu_intel_laptop = JSON.parse(cpu_intel_laptop_raw);
 for (let obj of cpu_intel_laptop.data){
   catalog.data.push(
@@ -136,7 +136,7 @@ for (let obj of cpu_intel_laptop.data){
 
 //Intel:
 //Desktop Processors:
-let cpu_intel_desktop_raw = fs.readFileSync('data/specs/cpu/intel/website/desktop.json');
+let cpu_intel_desktop_raw = fs.readFileSync('data/specs/cpu/intel/intel_website/desktop.json');
 let cpu_intel_desktop = JSON.parse(cpu_intel_desktop_raw);
 for (let obj of  cpu_intel_desktop.data){
   catalog.data.push(
