@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "Name" : "",
+        "All models support" : "",
+        "Other model support" : "",
+        "Overclocking" : "",
+        "PCI Express lanes": "",
+        "Memory type" : "",
+        "Max Memory Size" : "",
+        "Max memory channels" : "",
+        "Max Memory Bandwidth" : ""
+    },
+    "header": [
+        "Modelnumber",
+        "sSpecnumber",
+        "Cores(threads)",
+        "Frequency",
+        "Turbo Boostall-core 2.0(max. 3.0)",
+        "L2cache",
+        "L3cache",
+        "TDP",
+        "Socket",
+        "I/O bus",
+        "Memory",
+        "Release date",
+        "Partnumber(s)",
+        "Releaseprice (USD)"
+    ],
+    "data":[
+            {},
+            {}
+        ]
+}
