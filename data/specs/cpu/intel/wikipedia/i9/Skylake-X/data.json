@@ -1,0 +1,92 @@
+{
+    "meta": {
+        "Name" : "Skylake-X (14 nm, 7th generation)",
+        "All models support" : "MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, FMA3, MPX, Enhanced Intel SpeedStep Technology (EIST), Intel 64, XD bit (an NX bit implementation), Intel VT-x, Intel VT-d, Turbo Boost, Hyper-threading, AES-NI, Intel TSX-NI, Smart Cache.",
+        "PCI Express lanes": "44",
+        "Memory type" : "DDR4-2666",
+        "Max memory channels" : "4",
+        "Max Memory Bandwidth" : "85 GB/s"
+    },
+    "header": [
+        "Modelnumber",
+        "sSpecnumber",
+        "Cores(threads)",
+        "Frequency",
+        "Turbo Boostall-core 2.0(max. 3.0)",
+        "L2cache",
+        "L3cache",
+        "TDP",
+        "Socket",
+        "I/O bus",
+        "Memory",
+        "Release date",
+        "Partnumber(s)",
+        "Releaseprice (USD)"
+    ],
+    "data": [
+        {
+          "Modelnumber": "Core i9-10900X",
+          "sSpecnumber": "SRGV7 (L1)",
+          "Cores(threads)": "10  (20)",
+          "Frequency": "3.7 GHz",
+          "Turbo Boostall-core 2.0(max. 3.0)": "4.3/4.5 GHz 4.7 GHz",
+          "L2cache": "10 * 1024 KB",
+          "L3cache": "19.25 MB",
+          "TDP": "165 W",
+          "Socket": "LGA 2066",
+          "IO bus": "DMI 3.0",
+          "Memory": "4 * DDR4-2933",
+          "Release date": "Oct-19",
+          "Partnumber(s)": "BX8069510900X BXC8069510900X",
+          "Releaseprice (USD)": "$590$599"
+        },
+        {
+          "Modelnumber": "Core i9-10920X",
+          "sSpecnumber": "SRGSJ (L1)",
+          "Cores(threads)": "12  (24)",
+          "Frequency": "3.5 GHz",
+          "Turbo Boostall-core 2.0(max. 3.0)": "4.3/4.6 GHz 4.8 GHz",
+          "L2cache": "12 * 1024 KB",
+          "L3cache": "19.25 MB",
+          "TDP": "165 W",
+          "Socket": "LGA 2066",
+          "IO bus": "DMI 3.0",
+          "Memory": "4 * DDR4-2933",
+          "Release date": "Oct-19",
+          "Partnumber(s)": "BX8069510920X BXC8069510920X",
+          "Releaseprice (USD)": "$689$700"
+        },
+        {
+          "Modelnumber": "Core i9-10940X",
+          "sSpecnumber": "SRGSH (L1)",
+          "Cores(threads)": "14  (28)",
+          "Frequency": "3.3 GHz",
+          "Turbo Boostall-core 2.0(max. 3.0)": "4.1/4.6 GHz 4.8 GHz",
+          "L2cache": "14 * 1024 KB",
+          "L3cache": "19.25 MB",
+          "TDP": "165 W",
+          "Socket": "LGA 2066",
+          "IO bus": "DMI 3.0",
+          "Memory": "4 * DDR4-2933",
+          "Release date": "Oct-19",
+          "Partnumber(s)": "BX8069510940X BXC8069510940X",
+          "Releaseprice (USD)": "$784$797"
+        },
+        {
+          "Modelnumber": "Core i9-10980XE",
+          "sSpecnumber": "SRGSG (L1)",
+          "Cores(threads)": "18  (36)",
+          "Frequency": "3 GHz",
+          "Turbo Boostall-core 2.0(max. 3.0)": "3.8/4.6 GHz 4.8 GHz",
+          "L2cache": "18 * 1024 KB",
+          "L3cache": "24.75 MB",
+          "TDP": "165 W",
+          "Socket": "LGA 2066",
+          "IO bus": "DMI 3.0",
+          "Memory": "4 * DDR4-2933",
+          "Release date": "Oct-19",
+          "Partnumber(s)": "BX8069510980XE BXC8069510980XE",
+          "Releaseprice (USD)": "$979$1000"
+        }
+       ]
+}

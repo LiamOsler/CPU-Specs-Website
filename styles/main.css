@@ -11,11 +11,11 @@ h1, h2, h3, h4, h5, p{
 }
 
 footer a{
-    color: #57FF89;
+    color: whiteSmoke;
     text-decoration: underline;
 }
 footer a:hover{
-    color: #3CB25F;
+    color: whiteSmoke;
     text-decoration: underline;
 }
 

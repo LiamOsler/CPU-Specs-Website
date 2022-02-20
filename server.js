@@ -1,6 +1,5 @@
 const fs = require('fs');
 const { v4: uuidv4 } = require('uuid');
-
 const compression = require('compression')
 
 let express = require('express');
@@ -21,6 +20,9 @@ app.set('view engine', 'ejs');
 //JSON for keeping track of the categorization of the webpage:
 let categoryData = fs.readFileSync('data/categories.json');
 let categories = JSON.parse(categoryData);
+
+eval(fs.readFileSync('data.js')+'');
+
 
 let catalog ={
   "header": [
@@ -105,7 +107,7 @@ for (let obj of cpu_amd.data){
 
 //Intel:
 //Laptop Processors:
-let cpu_intel_laptop_raw = fs.readFileSync('data/specs/cpu/intel/laptop.json');
+let cpu_intel_laptop_raw = fs.readFileSync('data/specs/cpu/intel/website/laptop.json');
 let cpu_intel_laptop = JSON.parse(cpu_intel_laptop_raw);
 for (let obj of cpu_intel_laptop.data){
   catalog.data.push(
@@ -134,7 +136,7 @@ for (let obj of cpu_intel_laptop.data){
 
 //Intel:
 //Desktop Processors:
-let cpu_intel_desktop_raw = fs.readFileSync('data/specs/cpu/intel/desktop.json');
+let cpu_intel_desktop_raw = fs.readFileSync('data/specs/cpu/intel/website/desktop.json');
 let cpu_intel_desktop = JSON.parse(cpu_intel_desktop_raw);
 for (let obj of  cpu_intel_desktop.data){
   catalog.data.push(
