@@ -237,9 +237,62 @@ for (let obj of  cpu_intel_desktop.data){
   )
 }
 
+//Intel:
+//Desktop Processors:
+let cpu_intel_desktop_i9_07raw = fs.readFileSync('data/specs/cpu/intel/wikipedia/core-i9/desktop/07-Skylake-X/data.json');
+let cpu_intel_desktop_i9_07 = JSON.parse(cpu_intel_desktop_i9_07raw);
+for (let obj of  cpu_intel_desktop_i9_07.data){
+  for (let searchObj of  catalog.data){
+    if(searchObj["Model"] == obj["Modelnumber"]){
+      console.log(searchObj["PCDBID"]);
+      searchObj["Platform"] = cpu_intel_desktop_i9_07.meta.Name;
+      searchObj["Base Clock"] = obj["Frequency"];
+      searchObj["L2 Cache Configuration"] = obj["L2cache"];
+      searchObj["L3 Cache Configuration"] = obj["L3cache"];
+      searchObj[""] = obj[""];
+      searchObj[""] = obj[""];
+      searchObj[""] = obj[""];
+      searchObj[""] = obj[""];
+      searchObj[""] = obj[""];
+      searchObj[""] = obj[""];
+
+    }
+  }
+
+  // catalog.data.push(
+  //   {
+  //     // "Platform" : obj[""],
+  //     // "Unlocked" : obj[""],
+  //     // "P-core (performance) Turbo" : obj[""],
+  //     // "P-core (performance) L2 Cache" : obj[""],
+  //     // "E-core (efficiency) Turbo" : obj[""],
+  //     // "E-core (efficiency) L2cache" : obj[""],
+  //     // "Efficiency Cores" : obj[""],
+  //     // "Performance Cores" : obj[""],
+  //     // "Graphic Cores" : obj[""],
+  //     // "Total L1 Cache" : obj[""],
+  //     // "Total L2 Cache" : obj[""],
+  //     // "Total L3 Cache" : obj[""],
+  //     // "L1 Cache Configuration" : obj[""],
+  //     // "L2 Cache Configuration" : obj[""],
+  //     // "L3 Cache Configuration" : obj[""],
+  //     // "Processor Technology for CPU Cores" : obj[""],
+  //     // "PCI Express Version" : obj[""],
+  //     // "PCI Lanes" : obj[""],
+  //     // "Turbo TDP" : obj[""],
+  //     // "AMD Configurable TDP (cTDP)" : obj[""],
+  //     // "Maximum Temperature" : obj[""],
+  //     // "OS Support" : obj[""],
+  //     // "System Memory Type" : obj[""],
+  //     // "Memory Channels" : obj[""],
+  //     // "Supported Technologies" : obj[""]
+  //   }
+  // )
+}
 
 
-console.log(catalog);
+
+//console.log(catalog);
 
 
 

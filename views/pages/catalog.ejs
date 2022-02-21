@@ -9,10 +9,10 @@
 
 <% if(typeof searchQuery == 'undefined'){ %>
 <%- include('../partials/catalog/categories'); %>
-
-
+<% } else if(searchQuery.query == 'GPU'){ %>
+        <%- include('../partials/catalog/cpu'); %>
 <% } else if(searchQuery.query == 'CPU'){ %>
-        <%- include('../partials/catalog/cpu'); %>  
+    <%- include('../partials/catalog/cpu'); %>
 <% } else if(searchQuery.query){ %>
     <%- include('../partials/catalog/categories'); %>  
 <% } %>
