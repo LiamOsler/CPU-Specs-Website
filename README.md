@@ -1,6 +1,9 @@
 Hosted Version:
 http://cpuspecs.liamosler.ca/
 
+If you just want the combined data as a JSON file:
+https://github.com/LiamOsler/CPU-Specs-Website/blob/master/data/specs/combined.json
+
 Getting started:
 
 The server.js file:
@@ -25,7 +28,8 @@ console.log('Server is listening on port 3000');
 ```
 
 # Data definitions:
-## CPU Data sample JSON:
+
+## CPU Data Definitions sample JSON:
 ```js
 let cpu_catalog ={
     "header": [
