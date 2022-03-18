@@ -1,3 +1,6 @@
+Hosted Version:
+http://cpuspecs.liamosler.ca/
+
 Getting started:
 
 The server.js file:
