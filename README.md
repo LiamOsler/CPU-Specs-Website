@@ -1,95 +1,13 @@
-Hosted Version:
+# Hosted Version:
 http://cpuspecs.liamosler.ca/
 
-If you just want the combined data as a JSON file:
+# If you just want the combined data as a JSON file:
 https://github.com/LiamOsler/CPU-Specs-Website/blob/master/data/specs/combined.json
+Massaging the data is an ongoing process
 
-Getting started:
-
-The server.js file:
-```js
-var express = require('express');
-var app = express();
-app.use('/jquery/', express.static(__dirname + '/node_modules/jquery'));
-app.use('/@popperjs/', express.static(__dirname + '/node_modules/@popperjs/core/dist/umd'));
-app.use('/bootstrap/css/', express.static(__dirname + '/node_modules/bootstrap/dist/css'));
-app.use('/bootstrap/js/', express.static(__dirname + '/node_modules/bootstrap/dist/js'));
-app.use('/styles/', express.static(__dirname + '/styles'));
-// set the view engine to ejs
-app.set('view engine', 'ejs');
-
-// index page
-app.get('/', function(req, res) {
-  res.render('pages/index',  {});
-});
-
-app.listen(3000);
-console.log('Server is listening on port 3000');
-```
-
-# Data definitions:
-
-## CPU Data Definitions sample JSON:
-```js
-let cpu_catalog ={
-    "header": [
-      [
-        "PCDBID",
-        "Manufacturer",
-        "Model",
-        "Family",
-        "Line",
-        "CPU Socket",
-        "Platform",
-        "Manufacturer Product ID",
-        "Unlocked",
-        "Launch Date",
-        "CPU Cores",
-        "CPU Threads",
-        "P-core (performance) cores (threads)",
-        "P-core (performance) Freq.",
-        "P-core (performance) Turbo",
-        "P-core (performance) L2 Cache",
-        "E-core (efficiency) cores (threads)",
-        "E-core (efficiency) Freq.",
-        "E-core (efficiency) Turbo",
-        "E-core (efficiency) L2cache",
-        "Efficiency Cores",
-        "Performance Cores",
-        "Graphic Cores",
-        "Base Clock",
-        "Boost Clock",
-        "Total Cache",
-        "Total L1 Cache",
-        "Total L2 Cache",
-        "Total L3 Cache",
-        "L1 Cache Configuration",
-        "L2 Cache Configuration",
-        "L3 Cache Configuration",
-        "Processor Technology for CPU Cores",
-        "PCI Express Version",
-        "PCI Lanes",
-        "Default TDP",
-        "Turbo TDP",
-        "AMD Configurable TDP (cTDP)",
-        "Maximum Temperature",
-        "OS Support",
-        "System Memory Specification",
-        "System Memory Type",
-        "Memory Channels",
-        "Maximum Memory",
-        "Graphics Frequency",
-        "Integrated Graphics",
-        "Supported Technologies"
-      ]
-    ],
-    "data": [
-      {"PCDBID" : "pair" ...},
-      ...
-      {"PCDBID" : "pair" ...}
-    ]
-  };
-```
+## Specification Data completeness:
+- All AMD CPUs
+- Intel Core i3/i5/i7/i9 Mobile and Desktop processors from 9th generation forward
 
 <h1>Data Sources</h1>
 <h2>CPUs:</h2>
@@ -115,3 +33,68 @@ let cpu_catalog ={
     <h2>AMD:</h2>
         <a href = "https://www.amd.com/en/products/specifications/graphics">https://www.amd.com/en/products/specifications/graphics</a>
     <p></p>
+
+
+# JSON definition explanation:
+The row header contains the following definitions:
+
+## Processors (CPUs):
+```
+"PCDBID" : A unique ID number generated for each item in the database
+"Manufacturer" : The company which manufactured the particular CPU
+"Model" : The model name and number, as designated by the manufacturer
+"Family" : The family designation (if used by the manufacturer and designated - i.e. Ryzen, Threadripper, Core i3, Core i5)
+"Line" : The line designation (if - i.e. "11th Generation Core i3 Mobile, 10th Generation Core i9 Desktop, Ryzen 7 Mobile, Ryzen 9 Desktop"
+"CPU Socket" : Socket(s) physically supported by the CPU as designated by manufacturer
+"Platform" : The platform designated by the manufacturer (i.e. Desktop, Mobile, Server, etc...)
+"Manufacturer Product ID" : The product ID designated by the manufacturer
+"Unlocked" : Support for overclocking (yes/no) from the manufacturer
+"Launch Date" : Date made available for sale from the manufacturer
+"CPU Cores", :
+"CPU Threads",
+"P-core (performance) cores (threads)",
+"P-core (performance) Freq.",
+"P-core (performance) Turbo",
+"P-core (performance) L2 Cache",
+"E-core (efficiency) cores (threads)",
+"E-core (efficiency) Freq.",
+"E-core (efficiency) Turbo",
+"E-core (efficiency) L2cache",
+"Efficiency Cores",
+"Performance Cores",
+"Graphic Cores",
+"Base Clock",
+"Boost Clock",
+"Total Cache",
+"Total L1 Cache",
+"Total L2 Cache",
+"Total L3 Cache",
+"L1 Cache Configuration",
+"L2 Cache Configuration",
+"L3 Cache Configuration",
+"Processor Technology for CPU Cores",
+"PCI Express Version",
+"PCI Lanes",
+"Default TDP",
+"Turbo TDP",
+"AMD Configurable TDP (cTDP)",
+"Maximum Temperature",
+"OS Support",
+"System Memory Specification",
+"System Memory Type",
+"Memory Channels",
+"Maximum Memory",
+"Graphics Frequency",
+"Integrated Graphics",
+"Supported Technologies"
+```
+
+Note: where an item doesn't have a corresponding data definition, the pair value is either ```null``` or ```"undefined"```
+
+### Other possible definitions for future addition:
+
+Foundry : the particular details of the foundry/foundries where the CPU originated, including:
+- Name
+- Country
+
+
