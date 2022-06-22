@@ -7,6 +7,10 @@ Built with:
 ###  Hosted Version:
 http://cpuspecs.liamosler.ca/
 
+### Screenshot:
+![screenshot](screenshots/catalog_v2.png)
+
+
 ### Data:
 JSON URL:
 https://github.com/LiamOsler/CPU-Specs-Website/blob/master/data/specs/combined.json
