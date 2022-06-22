@@ -35,58 +35,68 @@ Massaging the data is an ongoing process
     <p></p>
 
 
-# JSON definition explanation:
+# JSON definitions explanation:
 The row header contains the following definitions:
 
 ## Processors (CPUs):
-```
-"PCDBID" : A unique ID number generated for each item in the database
-"Manufacturer" : The company which manufactured the particular CPU
-"Model" : The model name and number, as designated by the manufacturer
-"Family" : The family designation (if used by the manufacturer and designated - i.e. Ryzen, Threadripper, Core i3, Core i5)
-"Line" : The line designation (if - i.e. "11th Generation Core i3 Mobile, 10th Generation Core i9 Desktop, Ryzen 7 Mobile, Ryzen 9 Desktop"
-"CPU Socket" : Socket(s) physically supported by the CPU as designated by manufacturer
-"Platform" : The platform designated by the manufacturer (i.e. Desktop, Mobile, Server, etc...)
-"Manufacturer Product ID" : The product ID designated by the manufacturer
-"Unlocked" : Support for overclocking (yes/no) from the manufacturer
-"Launch Date" : Date made available for sale from the manufacturer
-"CPU Cores", :
-"CPU Threads",
-"P-core (performance) cores (threads)",
-"P-core (performance) Freq.",
-"P-core (performance) Turbo",
-"P-core (performance) L2 Cache",
-"E-core (efficiency) cores (threads)",
-"E-core (efficiency) Freq.",
-"E-core (efficiency) Turbo",
-"E-core (efficiency) L2cache",
-"Efficiency Cores",
-"Performance Cores",
-"Graphic Cores",
-"Base Clock",
-"Boost Clock",
-"Total Cache",
-"Total L1 Cache",
-"Total L2 Cache",
-"Total L3 Cache",
-"L1 Cache Configuration",
-"L2 Cache Configuration",
-"L3 Cache Configuration",
-"Processor Technology for CPU Cores",
-"PCI Express Version",
-"PCI Lanes",
-"Default TDP",
-"Turbo TDP",
-"AMD Configurable TDP (cTDP)",
-"Maximum Temperature",
-"OS Support",
-"System Memory Specification",
-"System Memory Type",
-"Memory Channels",
-"Maximum Memory",
-"Graphics Frequency",
-"Integrated Graphics",
-"Supported Technologies"
+```js
+
+{
+//Short Name:                           // Verbose description:
+"PCDBID" ,                              // A unique ID number generated for each item in the database
+"Manufacturer" ,                        // The company which manufactured the CPU
+"Model" ,                               // The model name and number designated by the manufacturer
+"Family" ,                              // The family designation (if used by the manufacturer and designated - i.e. Ryzen, Threadripper, Core i3, Core i5)
+"Line" ,                                // The line designation (if - i.e. "11th Generation Core i3 Mobile, Ryzen 7 Mobile"
+"CPU Socket" ,                          // Socket(s) physically supported by the CPU
+"Platform" ,                            // The platform designated by the manufacturer (i.e. Desktop, Mobile, Server, etc...)
+"Manufacturer Product ID" ,             // The product ID designated by the manufacturer
+"Unlocked" ,                            // Support for overclocking (yes/no) from the manufacturer
+"Launch Date"                           // Date made available for sale from the manufacturer
+"CPU Cores",                            // The total count of CPU Cores (both performance and efficiency cores)
+"CPU Threads",                          // The total count of threads across all cores
+"P-core cores (threads)",               // Performance core thread count (Intel)
+"P-core Freq.",                         // Performance core default frequency (Intel)
+"P-core Turbo",                         // Performance core turbo frequency (Intel)
+"P-core L2 Cache",                      // Performance core L2 cache (Intel)
+"E-core cores (threads)",               // Efficiency core thread count (Intel)
+"E-core Freq.",                         // Efficiency core default frequency (Intel)
+"E-core Turbo",                         // Efficiency core turbo frequency (Intel)
+"E-core L2 Cache",                      // Efficiency core L2 cache (Intel)
+"Efficiency Cores",                     // Efficiency core count (Intel)
+"Performance Cores",                    // The total count of performance cores (Intel)
+"Graphic Cores",                        // Count of dedicated graphics cores (Intel)
+"Base Clock",                           // The base clock speed of the fastest core (does not include CPUs with efficiency/performance cores) (Intel)
+"Boost Clock",                          // The boost clock speed of the fastest core (does not include CPUs with efficiency/performance cores) (Intel)
+"Total Cache (AMD)",                    // Total cache across all levels/cores/threads for AMD processors
+"Total L1 Cache (AMD)",                 // Total L1 Cache amount across all cores/threads for AMD processors
+"Total L2 Cache (AMD)",                 // Total L2 Cache amount across all cores/threads for AMD processors
+"Total L3 Cache (AMD)",                 // Total L3 Cache amount across all cores/threads for AMD processors
+"L1 Cache Configuration (AMD)",         // The details of the L1 cache configuration for AMD processors
+"L2 Cache Configuration (AMD)",         // The details of the L2 cache configuration for AMD processors
+"L3 Cache Configuration (AMD)",         // The details of the L3 cache configuration for AMD processors
+"Total Cache (Intel)",                  // Total cache across all levels/cores/threads for Intel processors
+"Total L1 Cache (Intel)",               // Total L1 Cache amount across all cores/threads for Intel processors
+"Total L2 Cache (Intel)",               // Total L2 Cache amount across all cores/threads for Intel processors
+"Total L3 Cache (Intel)",               // Total L3 Cache amount across all cores/threads for Intel processors
+"L1 Cache Configuration (Intel)",       // The details of the L1 cache configuration for AMD processors
+"L2 Cache Configuration (Intel)",       // The details of the L2 cache configuration for AMD processors
+"L3 Cache Configuration (Intel)",       // The details of the L3 cache configuration for AMD processors
+"Processor Technology for CPU Cores",   // The manufacturer's name for the processor technology with regards to the architecture of the processor's cores
+"PCI Express Version",                  // The highest version of PCI Express supported by the processor
+"PCI Lanes",                            // The maximum number of PCI Lanes available to the processor 
+"Default TDP",                          // The default thermal design power (TDP) of the processor at its base frequency
+"Turbo TDP",                            // The default thermal design power (TDP) of the processor at its boost
+"Configurable TDP (cTDP) (AMD)",        // The configurable TDP (cTDP) of the processor for AMD processors
+"Maximum Temperature",                  // The maximum safe operating temperature of the processor
+"OS Support",                           // List of operating systems officially supported by the manufacturer
+"System Memory Specification",          // Details of the system's memory configuration 
+"System Memory Type",                   // The type of memory supported 
+"Memory Channels",                      // The maximum number of usable memory channels
+"Maximum Memory",                       // The maximum memory amounts supported by the processor
+"Graphics Frequency",                   // The graphics frequency
+"Integrated Graphics",                  // Does the processor has support for integrated graphics processing
+"Supported Technologies"                // Detailed list of technologies supported by the processor, as designated by the manufacturer
 ```
 
 Note: where an item doesn't have a corresponding data definition, the pair value is either ```null``` or ```"undefined"```
