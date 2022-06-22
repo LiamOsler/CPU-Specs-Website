@@ -1,11 +1,19 @@
-# Hosted Version:
+# PROCESSOR (CPU) SPECIFICATION DATATABLES
+Built with:
+- ```Node.js```
+- ```EJS```
+- ```jQuery Datatables```
+
+###  Hosted Version:
 http://cpuspecs.liamosler.ca/
 
 ### Data:
+JSON URL:
 https://github.com/LiamOsler/CPU-Specs-Website/blob/master/data/specs/combined.json
-Massaging this data is an ongoing process
 
-### Completeness:
+Massaging this data is an ongoing process. It's by no means complete and the accuracy isn't verified  ¯\_(ツ)_/¯
+
+### Includes:
 - Most AMD CPUs
 - Intel Core i3/i5/i7/i9 Mobile and Desktop processors from 9th generation and after
 
@@ -15,18 +23,22 @@ Massaging this data is an ongoing process
 - Historical CPUs
 
 <h1>Data Sources</h1>
-<h2>CPUs:</h2>
     <h2>Manufacturer Data:</h2>
     <h2>AMD:</h2>
-        <a href = "https://www.amd.com/en/products/specifications/processors">https://www.amd.com/en/products/specifications/processors</a>
+        <a href = "https://www.amd.com/en/products/specifications/processors">
+        <p>
+        https://www.amd.com/en/products/specifications/processors</a>
+        </p>
     <h2>Intel:</h2>
-        <p>Desktop:
-            <a href = "https://www.intel.ca/content/www/ca/en/support/articles/000005505/processors.html">https://www.intel.ca/content/www/ca/en/support/articles/000005505/processors.html</a>
+        <p>Desktop:</p>
+            <p><a href = "https://www.intel.ca/content/www/ca/en/support/articles/000005505/processors.html">
+            https://www.intel.ca/content/www/ca/en/support/articles/000005505/processors.html</a></p>
         </p>
-        <p>Laptops:
-            <a href = "https://www.intel.ca/content/www/ca/en/support/articles/000028083/processors.html">https://www.intel.ca/content/www/ca/en/support/articles/000028083/processors.html</a>
+        <p>Laptops:</p>
+            <a href = "https://www.intel.ca/content/www/ca/en/support/articles/000028083/processors.html">
+            https://www.intel.ca/content/www/ca/en/support/articles/000028083/processors.html</a>
         </p>
-        <p>Wikipedia:<w/p>
+        <p>Wikipedia:</p>
         <a href = "https://en.wikipedia.org/wiki/List_of_Intel_Core_i3_processors" > https://en.wikipedia.org/wiki/List_of_Intel_Core_i3_processors</a>
         <a href = "https://en.wikipedia.org/wiki/List_of_Intel_Core_i5_processors" > https://en.wikipedia.org/wiki/List_of_Intel_Core_i5_processors</a>
         <a href = "https://en.wikipedia.org/wiki/List_of_Intel_Core_i7_processors" > https://en.wikipedia.org/wiki/List_of_Intel_Core_i7_processors</a>
