@@ -1,13 +1,18 @@
 # Hosted Version:
 http://cpuspecs.liamosler.ca/
 
-# If you just want the combined data as a JSON file:
+### Data:
 https://github.com/LiamOsler/CPU-Specs-Website/blob/master/data/specs/combined.json
-Massaging the data is an ongoing process
+Massaging this data is an ongoing process
 
-## Specification Data completeness:
-- All AMD CPUs
-- Intel Core i3/i5/i7/i9 Mobile and Desktop processors from 9th generation forward
+### Completeness:
+- Most AMD CPUs
+- Intel Core i3/i5/i7/i9 Mobile and Desktop processors from 9th generation and after
+
+### Next Steps:
+- Intel Core CPUs pre-9th generation
+- Apple Silicon
+- Historical CPUs
 
 <h1>Data Sources</h1>
 <h2>CPUs:</h2>
@@ -27,21 +32,13 @@ Massaging the data is an ongoing process
         <a href = "https://en.wikipedia.org/wiki/List_of_Intel_Core_i7_processors" > https://en.wikipedia.org/wiki/List_of_Intel_Core_i7_processors</a>
         <a href = "https://en.wikipedia.org/wiki/List_of_Intel_Core_i9_processors" > https://en.wikipedia.org/wiki/List_of_Intel_Core_i9_processors</a>
         
-<hr>
-<h2>GPUs:</h2>
-    <h2>Manufacturer Data</h2>
-    <h2>AMD:</h2>
-        <a href = "https://www.amd.com/en/products/specifications/graphics">https://www.amd.com/en/products/specifications/graphics</a>
-    <p></p>
-
-
+    
+    
 # JSON definitions explanation:
 The row header contains the following definitions:
 
 ## Processors (CPUs):
 ```js
-
-{
 //Short Name:                           // Verbose description:
 "PCDBID" ,                              // A unique ID number generated for each item in the database
 "Manufacturer" ,                        // The company which manufactured the CPU
@@ -99,12 +96,5 @@ The row header contains the following definitions:
 "Supported Technologies"                // Detailed list of technologies supported by the processor, as designated by the manufacturer
 ```
 
-Note: where an item doesn't have a corresponding data definition, the pair value is either ```null``` or ```"undefined"```
-
-### Other possible definitions for future addition:
-
-Foundry : the particular details of the foundry/foundries where the CPU originated, including:
-- Name
-- Country
-
+Note: where an item doesn't have a corresponding data definition, the pair values are either ```null```, ```"undefined"``` or ```"N/A"``` at this time
 
